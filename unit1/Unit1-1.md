@@ -17,22 +17,23 @@ This activity will give students an opportunity to learn about a major hacking e
 As a class looking at how computers are exploited, we will be learning a lot of skills that could be used to access someone's computer or network without their permission.  While all of these skills are easily learned on the Internet, it is important that we agree to respect private property and never access something without permission.
 	
 	
-### Agenda
+## Agenda
 	
-	Getting Started
-		- Course Overview
-		- Ethics Statement
-		
-	Activity
-		Research major attacks of the past 10 years
-		Prepare slides detailing the attacks
-		Present to the class
-	Wrap-up
-		Discussion over attacks
-		What can be done to prevent future attacks
-		
-	Assessment Questions
-	Extended Learning
+### Getting Started
+- Course Overview
+- Ethics Statement
+
+### Activity
+- Research major attacks of the past 10 years
+- Prepare slides detailing the attacks
+- Present to the class
+
+### Wrap-up
+- Discussion over attacks
+- What can be done to prevent future attacks
+
+Assessment Questions
+Extended Learning
 	
 ### Objectives
 Students will be able to:
@@ -50,61 +51,60 @@ Links
 	For the Students
 		<Ethics Statement>
 	
-Vocabulary
+### Vocabulary
 
-Teaching Guide
-	Getting Started
-		Class introductions
-		Cyber Security overview
-		Ethics Statement
-			Students need to understand that the material learned in this class 
-			should not be used to access files, networks, or other property that they 
-			do not have permission to access.  Lack of security does not imply permission.
-			
-	Activity
-		In pairs, research one of the major hacking events of the past several years.
-		In your research, identify several important ideas:
-			Who was attacked?
-			Who was the attacker (or who is thought to be if unclear)?
-			What was the motive (money, political, warfare, prank)
-			What was the result of the attack?
-			How can this type of attack be prevented in the future?
-			
-		Compile this information into a presentation for the class.
+### Teaching Guide
+#### Getting Started
+Class introductions
+Cyber Security overview
+Ethics Statement
+> Students need to understand that the material learned in this class 
+> should not be used to access files, networks, or other property that they 
+> do not have permission to access.  Lack of security does not imply permission.
+
+#### Activity
+In pairs, research one of the major hacking events of the past several years.
+In your research, identify several important ideas:
+- Who was attacked?
+- Who was the attacker (or who is thought to be if unclear)?
+- What was the motive (money, political, warfare, prank)
+- What was the result of the attack?
+- How can this type of attack be prevented in the future?
+
+Compile this information into a presentation for the class.
 	
 	
-		Major Hacking Events:
-			2014 - Mt. Gox
-			2011 - Bank of America, Turkish Hacker
-			2010 - Stuxnet
-			2011 - Sesame Street YouTube channel
-			2014 - PSN hacked at christmas time
-			2014 - Sony Pictures Hacked
-			2013 - Target Credit cards hacked
-			2014 - Home Depot Hacked
-			2014 – Heartbleed Bug
-			2015 - IRS hacked
-			2015 - Jeep Hacked
-			2014 - Apple iCloud hacked
-			2017 – WannaCry Ransomware
+Major Hacking Events:
+- 2014 - Mt. Gox
+- 2011 - Bank of America, Turkish Hacker
+- 2010 - Stuxnet
+- 2011 - Sesame Street YouTube channel
+- 2014 - PSN hacked at christmas time
+- 2014 - Sony Pictures Hacked
+- 2013 - Target Credit cards hacked
+- 2014 - Home Depot Hacked
+- 2014 – Heartbleed Bug
+- 2015 - IRS hacked
+- 2015 - Jeep Hacked
+- 2014 - Apple iCloud hacked
+- 2017 – WannaCry Ransomware
 
-## Wrap-up
-	- Discussion of hacking events
-	- Hackers gain a detailed knowledge of a computer or system then find  vulnerabilities.  
-		Thinking of your own house, could you get in if you didn't have a key?
-		What inside knowledge do you have of your own home that would allow access?  
-		What could you change to strengthen your home-security?
-		Would the additional security be a benefit or a hindrance?  For example, 10 locks would make your door more
-		secure but would also limit your own access in a speedy way.
+### Wrap-up
+- Discussion of hacking events
+- Hackers gain a detailed knowledge of a computer or system then find  vulnerabilities.  
+> Thinking of your own house, could you get in if you didn't have a key?
+> What inside knowledge do you have of your own home that would allow access?  
+> What could you change to strengthen your home-security?
+> Would the additional security be a benefit or a hindrance?  For example, 10 locks would make your door more secure but would also limit your own access in a speedy way.
+
+- Video: [TED - Hire the Hackers](https://www.ted.com/talks/misha_glenny_hire_the_hackers)
 	
-	Video: [TED - Hire the Hackers](https://www.ted.com/talks/misha_glenny_hire_the_hackers)
-	
-## Assessment Questions
-	- Brainstorm ways to keep yourself safe online.
-	- What are some methods hackers use to gain unauthorized access to a computer or network?
-	- What can we do as individuals to prevent this?
-	- What should companies or governments do about hacking?
+### Assessment Questions
+- Brainstorm ways to keep yourself safe online.
+- What are some methods hackers use to gain unauthorized access to a computer or network?
+- What can we do as individuals to prevent this?
+- What should companies or governments do about hacking?
 
-Extended Learning
+### Extended Learning
 
-Standards Alignment
+### Standards Alignment
