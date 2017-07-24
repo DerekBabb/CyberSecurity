@@ -1,12 +1,16 @@
 # Lesson 1-1
 ## Introduction & Ethics
 
-Notes:
-	Need to look at specific hacks. 
-		Are there any I am missing or some that should be eliminiated?
-		This would be a good place to put some of the attacks in the UNO slides
-		This should not be exhaustive nor should a mention of an attack here eliminate it from future discussion... see Stuxnet
-	
+TODO:
+Need to look at specific hacks. 
+	Are there any I am missing or some that should be eliminiated?
+	This would be a good place to put some of the attacks in the UNO slides
+	This should not be exhaustive nor should a mention of an attack here eliminate it from future discussion... see Stuxnet
+Add link to ethics statement document
+Add vocabulary
+Add standards alignment
+Add links for teachers and students
+
 ## Overview
 Cyber Security is an increasingly in-demand field of Computer Science. In this course we will look at the major ideas in the fields of Cyber Security or Information Assurance. This is not a "hacking" class but we are looking at the ways that computers, programs, networks, and people are exploited by hackers and what we can do to prevent or minimize the damage caused by bad actors.
 	
@@ -42,8 +46,8 @@ Students will be able to:
 	- Suggest ways to prevent similar attacks
 	
 ### Preparation
-	- Students will need access to the internet
-	- Printed copies of the ethics statement
+- Students will need access to the internet
+- Printed copies of the ethics statement
 	
 Links
 	For the Teacher
