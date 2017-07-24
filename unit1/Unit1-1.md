@@ -50,10 +50,10 @@ Students will be able to:
 - Printed copies of the ethics statement
 	
 Links
-	For the Teacher
+- For the Teacher
 	
-	For the Students
-		<Ethics Statement>
+- For the Students
+	- <Ethics Statement>
 	
 ### Vocabulary
 
