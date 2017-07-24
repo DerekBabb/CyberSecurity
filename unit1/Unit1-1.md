@@ -100,7 +100,7 @@ Major Hacking Events:
 > What inside knowledge do you have of your own home that would allow access?  
 > What could you change to strengthen your home-security?
 > Would the additional security be a benefit or a hindrance?  
-	> For example, 10 locks would make your door more secure but would also limit your own access in a speedy way.
+> For example, 10 locks would make your door more secure but would also limit your own access in a speedy way.
 
 - Video: [TED - Hire the Hackers](https://www.ted.com/talks/misha_glenny_hire_the_hackers)
 	
