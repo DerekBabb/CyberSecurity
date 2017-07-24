@@ -2,7 +2,7 @@
 Classic cryptography covers encryption and decryption of various ciphers and their historical context.  Whenever possible the cipher includes a method of encoding by hand and scales to programming activities with the cipher.
 
 ## Unit 1 Sections
-1. Introduction and Ethics
+1. [Introduction and Ethics](Unit1-1.md)
 1. Symbolic Encoding - Mary Queen of Scots
 1. Encoding - Morse Code
 1. Ascii Encoding and Binary Numbers
