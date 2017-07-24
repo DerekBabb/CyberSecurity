@@ -1,16 +1,21 @@
 # Unit 1 - Classic Cryptography
+Classic cryptography covers encryption and decryption of various ciphers and their historical context.  Whenever possible the cipher includes a method of encoding by hand and scales to programming activities with the cipher.
 
-1-1) Introduction and Ethics
-1-2) Symbolic Encoding - Mary Queen of Scots
-1-3) Encoding - Morse Code
-1-4) Ascii Encoding and Binary Numbers
-1-5) Shortest Message Encoding
-1-6) Caesar Cipher 
-1-7) Substitution Cipher, Keyword Cipher and Frequency Analysis
-1-8) Vigenere Cipher
-1-9) Physical Ciphers - Scytale & Railfence Ciphers
-1-10) Continuing Activities
+## Unit 1 Sections
+1. Introduction and Ethics
+1. Symbolic Encoding - Mary Queen of Scots
+1. Encoding - Morse Code
+1. Ascii Encoding and Binary Numbers
+1. Shortest Message Encoding
+1. Caesar Cipher 
+1. Substitution Cipher, Keyword Cipher and Frequency Analysis
+1. Vigenere Cipher
+1. Physical Ciphers - Scytale & Railfence Ciphers
+1. Continuing Activities
 
+
+
+---
 1) Cryptography Overview
 	- What is cryptography?
 	- How was it used?
