@@ -36,8 +36,8 @@ As a class looking at how computers are exploited, we will be learning a lot of 
 - Discussion over attacks
 - What can be done to prevent future attacks
 
-Assessment Questions
-Extended Learning
+### Assessment Questions
+### Extended Learning
 	
 ### Objectives
 Students will be able to:
@@ -47,17 +47,17 @@ Students will be able to:
 	
 ### Preparation
 - Students will need access to the internet
-- Printed copies of the ethics statement
+- Printed copies of the ethics statement [.docx](docs/ETHICS_STATEMENT.docx)
 	
 Links
 - For the Teacher
 	
 - For the Students
-	- <Ethics Statement>
+	
 	
 ### Vocabulary
 
-### Teaching Guide
+## Teaching Guide
 #### Getting Started
 Class introductions
 Cyber Security overview
