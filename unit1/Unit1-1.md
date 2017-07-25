@@ -21,44 +21,29 @@ This activity will give students an opportunity to learn about a major hacking e
 As a class looking at how computers are exploited, we will be learning a lot of skills that could be used to access someone's computer or network without their permission.  While all of these skills are easily learned on the Internet, it is important that we agree to respect private property and never access something without permission.
 	
 	
-## Agenda
-	
-### Getting Started
-- Course Overview
-- Ethics Statement
-
-### Activity
-- Research major attacks of the past 10 years
-- Prepare slides detailing the attacks
-- Present to the class
-
-### Wrap-up
-- Discussion over attacks
-- What can be done to prevent future attacks
-
-### Assessment Questions
-### Extended Learning
-	
 ### Objectives
-Students will be able to:
-	- Describe a major hacking event
-	- Identify the vulnerability that led to the attacks
-	- Suggest ways to prevent similar attacks
+#### Students will be able to:
+- Discuss ethical behavior in online context
+- Ethical dilemma, gray areas
+- Identify Ten Commandments of Cyber Ethics
+- Describe a major hacking event
+- Identify the vulnerability that led to the attacks
+- Suggest ways to prevent similar attacks
 	
 ### Preparation
 - Students will need access to the internet
 - Printed copies of the ethics statement [.docx](docs/ETHICS_STATEMENT.docx)
 	
-Links
+### Links
 - For the Teacher
 	
 - For the Students
-	
+	- [Ten Commandments of Cyber Ethics](http://cybercitizenship.org/ethics/commandments.html)
 	
 ### Vocabulary
 
 ## Teaching Guide
-#### Getting Started
+### Getting Started
 Class introductions
 Cyber Security overview
 Ethics Statement
@@ -66,7 +51,21 @@ Ethics Statement
 > should not be used to access files, networks, or other property that they 
 > do not have permission to access.  Lack of security does not imply permission.
 
-#### Activity
+### Activity
+Loot at several scenarios about ethical situations
+- What would you do?
+- Did the people involve act ethically?
+- Who was harmed in this interaction, who is the victim?
+
+Have students look at "Ten Commandments of Cyber Ethics"
+- Students will pair up and each take one commandment.  
+	- Create an example and non-example of this commandment.
+	- Present to the class
+ 
+Re-evaluate opening scenarios and describe why the ethical response is or is not appropriate.  
+- Link the behavior back to ten commandments.
+
+### Activity
 In pairs, research one of the major hacking events of the past several years.
 In your research, identify several important ideas:
 - Who was attacked?
