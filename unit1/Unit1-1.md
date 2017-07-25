@@ -31,8 +31,8 @@ As a class looking at how computers are exploited, we will be learning a lot of 
 - Suggest ways to prevent similar attacks
 	
 ### Preparation
-- Students will need access to the internet
-- Printed copies of the ethics statement [.docx](docs/ETHICS_STATEMENT.docx)
+- [x] Students will need access to the internet
+- [x] Printed copies of the ethics statement [\[.docx\]](docs/ETHICS_STATEMENT.docx)
 	
 ### Links
 - For the Teacher
@@ -95,9 +95,9 @@ Major Hacking Events:
 ### Wrap-up
 - Discussion of hacking events
 - Hackers gain a detailed knowledge of a computer or system then find  vulnerabilities.  
-> Thinking of your own house, could you get in if you didn't have a key?
-> What inside knowledge do you have of your own home that would allow access?  
-> What could you change to strengthen your home-security?
+> Thinking of your own house, could you get in if you didn't have a key?<br>
+> What inside knowledge do you have of your own home that would allow access?<br>  
+> What could you change to strengthen your home-security?<br>
 > Would the additional security be a benefit or a hindrance?  For example, 10 locks would make your door more secure but would also limit your own access in a speedy way.
 
 - Video: [TED - Hire the Hackers](https://www.ted.com/talks/misha_glenny_hire_the_hackers)
