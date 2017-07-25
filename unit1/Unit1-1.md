@@ -46,8 +46,8 @@ Students will be able to:
 	- Suggest ways to prevent similar attacks
 	
 ### Preparation
-- Students will need access to the internet
-- Printed copies of the ethics statement [.docx](docs/ETHICS_STATEMENT.docx)
+- [x] Students will need access to the internet
+- [x] Printed copies of the ethics statement [\[.docx\]](docs/ETHICS_STATEMENT.docx)
 	
 Links
 - For the Teacher
