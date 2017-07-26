@@ -7,8 +7,8 @@ Classic cryptography covers encryption and decryption of various ciphers and the
 1. [Encoding - Morse Code](Encoding_Morse.md)
 1. [Ascii Encoding and Binary Numbers](Encoding_Binary.md)
 1. [Shortest Message Encoding](Shortest_Message.md)
-1. Caesar Cipher 
-1. Substitution Cipher, Keyword Cipher and Frequency Analysis
-1. Vigenere Cipher
-1. Physical Ciphers - Scytale & Railfence Ciphers
-1. Continuing Activities
+1. [Caesar Cipher](Caesar_Cipher.md) 
+1. [Substitution Cipher, Keyword Cipher and Frequency Analysis](Substitution_Cipher.md)
+1. [Vigenere Cipher](Vigenere_Cipher.md)
+1. [Physical Ciphers - Scytale & Railfence Ciphers](Physical_Ciphers.md)
+1. [Continuing Activities](Extended_Learning.md)

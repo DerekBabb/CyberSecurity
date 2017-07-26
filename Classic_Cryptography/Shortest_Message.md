@@ -26,7 +26,7 @@ The purpose of this lesson is to have students explore alternate ways of encodin
 	
 ### Links
 - For the Teacher
-Huffman Coding - https://en.wikipedia.org/wiki/Huffman_coding
+	- Huffman Coding - https://en.wikipedia.org/wiki/Huffman_coding
 - For the Students
 	
 ### Vocabulary
