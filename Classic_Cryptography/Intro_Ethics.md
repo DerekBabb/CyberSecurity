@@ -31,8 +31,8 @@ As a class looking at how computers are exploited, we will be learning a lot of 
 - Suggest ways to prevent similar attacks
 	
 ### Preparation
-- Students will need access to the internet
-- Printed copies of the ethics statement [.docx](docs/ETHICS_STATEMENT.docx)
+- [x] Students will need access to the internet
+- [x] Printed copies of the ethics statement [.docx](docs/ETHICS_STATEMENT.docx)
 	
 ### Links
 - For the Teacher
@@ -52,7 +52,7 @@ Ethics Statement
 > do not have permission to access.  Lack of security does not imply permission.
 
 ### Activity
-Loot at several scenarios about ethical situations
+Look at several scenarios about ethical situations
 - What would you do?
 - Did the people involve act ethically?
 - Who was harmed in this interaction, who is the victim?

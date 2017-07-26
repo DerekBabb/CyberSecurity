@@ -1,17 +1,42 @@
 # Cyber Security
+
+TODO: Add link to news note example document and link it.
+
 A curriculum for a high school cyber security course.
 
 This curriculum is designed for a high school computer science course focused on cyber security.  Each of the units have activities that could be used with or without prior coding knowledge so the course is customizable to the needs of the given students/teacher.
 
-### Topics
-- Classic Cryptography
-- Modern Cryptography
+## Topics
+- [Classic Cryptography](classic_cryptography/readme.md)
+- [Modern Cryptography](modern_cryptography/readme.md)
 - Personal Security
-- Viruses, Trojans, Worms, and Malware
+- Malicious Software
 - Physical Security
 - Web Security
+- Networking and Security
 
-### Resources
+## Usage
+
+## Interwoven Projects
+Throughout the year, there are several ongoing projects.  Some of these activities will be called out specifically in a lesson but for the majority of the time these are activities which can be slotted in by the instructor.
+
+<b>Blog</b> - Each student should maintain a blog.  There are many online blog platforms available.  If privacy is a concern, the blog could be done in a document that the student shares with the instructor.  The goal of the blog is for students to express thoughts on cyber security principles and ideas, and as a way for students to better think about how they will engage with the topics being discussed.
+
+So much of the class is designed to inform and make students aware of cyber principles. The blog gives a context for how they will act based on the knowledge and how they would let others know how to act to remain secure online.
+
+<b>News Articles</b> - This can be done weekly or as frequently as you find useful.  Students will read online news stories about cyber security, hacking, or other security issues.  As with the blog, the goal is to raise awareness of cyber events and to make students more vigilant cyber citizens.
+
+[Sample News Note](/docs/newsnote.docx)
+
+Good websites for cyber news:
+- https://www.cnet.com/
+- https://www.wired.com/category/security/
+- https://www.yahoo.com/tech
+- https://www.theverge.com/
+- https://www.engadget.com/
+- https://arstechnica.com/
+
+## Resources
 There are several resources that are used throughout the curriculum. As with any of the lessons you can customize what works for you and what doesn't.
 
 [CodeAcademy](https://www.codecademy.com/)
