@@ -1,5 +1,4 @@
-# Lesson 1-1
-## Introduction & Ethics
+# Introduction & Ethics
 
 TODO:
 Need to look at specific hacks. 
