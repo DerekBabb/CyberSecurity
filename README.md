@@ -1,18 +1,15 @@
 # Cyber Security
-
-TODO: Add link to news note example document and link it.
-
-A curriculum for a high school cyber security course.
+### A curriculum for a high school cyber security course.
 
 This curriculum is designed for a high school computer science course focused on cyber security.  Each of the units have activities that could be used with or without prior coding knowledge so the course is customizable to the needs of the given students/teacher.
 
 ## Topics
 - [Classic Cryptography](https://github.com/DerekBabb/CyberSecurity/tree/master/Classic_Cryptography)
-- [Modern Cryptography](modern_cryptography/readme.md)
-- Personal Security
-- Malicious Software
-- Physical Security
-- Web Security
+- [Modern Cryptography](https://github.com/DerekBabb/CyberSecurity/tree/master/Modern_Cryptography)
+- [Security Principles](https://github.com/DerekBabb/CyberSecurity/tree/master/Security_Principles)
+- [Malicious Software](https://github.com/DerekBabb/CyberSecurity/tree/master/Malware)
+- [Physical Security](https://github.com/DerekBabb/CyberSecurity/tree/master/Physical_Security)
+- [Web Security](https://github.com/DerekBabb/CyberSecurity/tree/master/Web_Security)
 - Networking and Security
 
 ## Usage
@@ -26,7 +23,7 @@ So much of the class is designed to inform and make students aware of cyber prin
 
 <b>News Articles</b> - This can be done weekly or as frequently as you find useful.  Students will read online news stories about cyber security, hacking, or other security issues.  As with the blog, the goal is to raise awareness of cyber events and to make students more vigilant cyber citizens.
 
-[Sample News Note](/docs/newsnote.docx)
+[Sample News Note](Sample_News_Note.docx)
 
 Good websites for cyber news:
 - https://www.cnet.com/
@@ -35,6 +32,16 @@ Good websites for cyber news:
 - https://www.theverge.com/
 - https://www.engadget.com/
 - https://arstechnica.com/
+
+<b>Capture the Flag (CTF)</b> - Throughout the year, you will be able to find online cyber security scavenger hunts called capture the flags or CTFs for short. There are a number of these geared toward high school students and this is frequently a good way to see what the students are learning in a fun, engaging, game-like way.
+
+#### Recommended High School CTFs
+- https://picoctf.com/
+- https://hsctf.com/
+- https://lasactf.com/
+- https://www.easyctf.com/
+- https://github.com/ctfs/write-ups-2016/tree/master/tjctf-2016
+
 
 ## Resources
 There are several resources that are used throughout the curriculum. As with any of the lessons you can customize what works for you and what doesn't.
