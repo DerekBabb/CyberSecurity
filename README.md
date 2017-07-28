@@ -4,7 +4,7 @@
 This curriculum is designed for a high school computer science course focused on cyber security.  Each of the units have activities that could be used with or without prior coding knowledge so the course is customizable to the needs of the given students/teacher.
 
 ## Topics
-- [Classic Cryptography](./Classic_Cryptography)
+- [Classic Cryptography](./Classic_Cryptography/readme.md)
 - [Modern Cryptography](https://github.com/DerekBabb/CyberSecurity/tree/master/Modern_Cryptography)
 - [Security Principles](https://github.com/DerekBabb/CyberSecurity/tree/master/Security_Principles)
 - [Malicious Software](https://github.com/DerekBabb/CyberSecurity/tree/master/Malware)
