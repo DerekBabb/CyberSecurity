@@ -13,6 +13,9 @@ This curriculum is designed for a high school computer science course focused on
 - Networking and Security
 
 ## Usage
+The units and topics outlined are designed to be stand-alone. Each unit can be taught alone or all of the units could be taught as a full-year course in cyber security.
+
+This repository is designed to be teacher-facing and it is left to the teacher to use an existing LMS or other method of giving links, activities, and supporting documents to the students.
 
 ## Interwoven Projects
 Throughout the year, there are several ongoing projects.  Some of these activities will be called out specifically in a lesson but for the majority of the time these are activities which can be slotted in by the instructor.
@@ -70,3 +73,6 @@ Repl.it is an online coding environment.  I have loaded the skeleton code for al
 
 [Python.org](https://www.python.org/)
 If you want to do the programming activities and want to run the code locally on the computers.  I recommend the IDE from Python.org though there are many others available.  All of the coding activities have been written using Python 3.
+
+[Dr. Java](http://www.drjava.org/)
+Dr. Java is a lightweight Java IDE that is very forgiving of a computer that does not have the full Java SDK installed. There are a few times when running a Java application will be useful in the curriculum and this allows students to run the code.
