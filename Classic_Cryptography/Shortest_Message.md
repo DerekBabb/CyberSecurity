@@ -2,7 +2,7 @@
 
 ## Overview
 Students will create a system to encode a specific message using the fewest number of bits possible.  Then students will encode that message in a chain of paper rings.
-	
+
 There are many ways to encode messages, our goal with this lesson is to encode a message with the fewest number of bits.
 
 ## Purpose
@@ -23,24 +23,24 @@ The purpose of this lesson is to have students explore alternate ways of encodin
 - [x] Cut strips of paper.
 	Each group will need 120 strips of two colors (60 of each color)
 - [x] Tape - 1 per group
-	
+
 ### Links
 - For the Teacher
 	- Huffman Coding - https://en.wikipedia.org/wiki/Huffman_coding
 - For the Students
-	
+
 ### Vocabulary
 
 ## Teaching Guide
 ### Getting Started
 Introduce the idea of encoding a message using fewer bits.
 Every letter in ASCII takes 1 byte or 8 bits, if we tailor the code to the message, could we improve that and make our message shorter?
-	
+
 ### Activity
 Break the class into groups of 3.  As a group they will have a unique message and will be tasked with making an encoding that uses the fewest number of bits.
-		
+
 Once they have generated their encoding, they will use the strips of paper to create interlocking rings that are the encoded message.
-		
+
 Finally, once groups have their encoding, they can swap legends and rings with another group and try to decode the other message.
 
 ### Wrap-up
@@ -51,11 +51,14 @@ Finally, once groups have their encoding, they can swap legends and rings with a
 
 Show Huffman Encoding and describe how it is used.
 https://www.youtube.com/watch?v=dM6us854Jk0
-	
+
 ### Assessment Questions
 - Given that Huffman encoding is more efficient, why is it not used more frequently?
-	
+
 
 ### Extended Learning
 
 ### Standards Alignment
+
+## License
+[Cyber Security Curriculum](https://github.com/DerekBabb/CyberSecurity) <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.

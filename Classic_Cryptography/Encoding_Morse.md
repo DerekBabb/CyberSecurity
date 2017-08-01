@@ -1,30 +1,30 @@
 # Encoding - Morse Code
 
 TODO: Still need to come up with a few assessment questions
-	
-	
+
+
 ## Overview
 In this lesson, students will convert messages into a format that can be transmitted.  Computers use encodings in order to transmit data and one of the earliest versions of this type of communication is Morse Code.
 
 ## Purpose
 Teach about how plain-text messages can be converted into another format for the purpose of being transmitted. Text is not an ideal format for transmission across different mediums, especially using light or electrical pulses.
 
-	
+
 ### Objectives
 #### Students will be able to:
 - Encode and decode messages in Morse Code
 - Describe methods of encoding messages for transmission
-	
+
 ### Preparation
 - [x] Print [Morse Code worksheet](Encoding/Morse_Code_Activity.docx)
 - [x] Prepare message in Morse Code for students using audio conversion.
-	
+
 ### Links
 - For the Teacher
 	- https://morsecode.scphillips.com/translator.html
 - For the Students
 	- http://www.learnmorsecode.com/
-	
+
 ### Vocabulary
 
 ## Teaching Guide
@@ -45,7 +45,7 @@ Discussion
 1) Is Morse Code a secure form of communication?  For a person?  For a military?
 
 ### Assessment Questions
-	
+
 ### Extended Learning
 - Python Programming: Complete the Morse Code Translator
 - Arduino: Push-Button Blinker
@@ -59,4 +59,6 @@ https://circuits.io/circuits/5218209-arduino-morse-code-auto-blinker
 ### Sources:
 https://en.wikipedia.org/wiki/Morse_code#/media/File:International_Morse_Code.svg
 https://create.arduino.cc/projecthub/team-onyx/morse-code-translator-46e9b8
-	
+
+## License
+[Cyber Security Curriculum](https://github.com/DerekBabb/CyberSecurity) <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.

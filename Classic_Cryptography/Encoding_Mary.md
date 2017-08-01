@@ -13,28 +13,28 @@ Students will be able to:
 - Encode a message using a defined code.
 - Decode a message using a defined code.
 - Create a new code and use it to communicate.
-		
+
 ### Preparation
 - [x] Print the [Symbol Cipher worksheet](Encoding/Symbol_Cipher.docx)
-	
+
 ### Links
 - For the Teacher
-	
+
 - For the Students
 	- [Codemoji](https://codemoji.org/)
-	
+
 ### Vocabulary
 
 ## Teaching Guide
 ### Getting Started
 Discuss how encoding is used to swap a letter for another symbol.
 Video -	https://www.youtube.com/watch?v=_htopuN4pCk
-	
+
 ### Activity
 Symbol Cipher Worksheet
 Have students work in pairs on the worksheet. Students will encode a message using the cipher used by Mary Queen of Scots
 
-After encoding a message, they will swap with another group to decode their 
+After encoding a message, they will swap with another group to decode their
 message.
 
 Finally, students will create their own modern take on the cipher using emojis to replace letters or words.  As before, they will encode a message and swap with another group to decode a message.
@@ -42,20 +42,22 @@ Finally, students will create their own modern take on the cipher using emojis t
 ### Wrap-up
 Discussion:
 If two people want to communicate secretly, what do they need?
-	
+
 Mary used a hollow bung in beer kegs to transport her messages.  Hiding in the open where people won't think to look is called Steganography.  What are methods you could use to send messages like this in your life?
 
 What about digitally? Are there ways you could send these messages in the open where people wouldn't think to look in a digital form?
-	
+
 ### Assessment Questions
 - If you did not have a key, how could you begin to decode these a message encoded using a key like this?
 - In a text document, I can change the font to WingDings or another symbol font.
 - Is this a secure way of hiding information?
 	- Why/why not?
-	
+
 ### Extended Learning
-Read Chapter 1 of "The Code Book" - Mary Queen of Scots 
+Read Chapter 1 of "The Code Book" - Mary Queen of Scots
 
 ### Standards Alignment
 
 
+## License
+[Cyber Security Curriculum](https://github.com/DerekBabb/CyberSecurity) <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
