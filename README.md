@@ -4,12 +4,13 @@
 This curriculum is designed for a high school computer science course focused on cyber security.  Each of the units have activities that could be used with or without prior coding knowledge so the course is customizable to the needs of the given students/teacher.
 
 ## Topics
+- [Ethics and Society](./Ethics_Society/Intro_Ethics.md)
+- [Security Principles](./Security_Principles/readme.md)
 - [Classic Cryptography](./Classic_Cryptography/readme.md)
-- [Modern Cryptography](https://github.com/DerekBabb/CyberSecurity/tree/master/Modern_Cryptography)
-- [Security Principles](https://github.com/DerekBabb/CyberSecurity/tree/master/Security_Principles)
-- [Malicious Software](https://github.com/DerekBabb/CyberSecurity/tree/master/Malware)
-- [Physical Security](https://github.com/DerekBabb/CyberSecurity/tree/master/Physical_Security)
-- [Web Security](https://github.com/DerekBabb/CyberSecurity/tree/master/Web_Security)
+- [Modern Cryptography](./Modern_Cryptography/readme.md)
+- [Malicious Software](./Malware/readme.md)
+- [Physical Security](./Physical_Security/readme.md)
+- [Web Security](./Web_Security/readme.md)
 - Networking and Security
 
 ## Usage
@@ -76,3 +77,9 @@ If you want to do the programming activities and want to run the code locally on
 
 [Dr. Java](http://www.drjava.org/)
 Dr. Java is a lightweight Java IDE that is very forgiving of a computer that does not have the full Java SDK installed. There are a few times when running a Java application will be useful in the curriculum and this allows students to run the code.
+
+[Code.org](https://studio.code.org/home)
+Code.org has several courses designed to teach coding and a wider understanding of computer science.  Several lessons in their Computer Science Principles course are extremely applicable to cyber security and have been included here. The instructor will need to setup an account with Code.org and give all students a login for this portion to work.
+
+# License
+[Cyber Security Curriculum](https://github.com/DerekBabb/CyberSecurity) <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.

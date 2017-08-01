@@ -1,7 +1,7 @@
 # Introduction & Ethics
 
 TODO:
-Need to look at specific hacks. 
+Need to look at specific hacks.
 	Are there any I am missing or some that should be eliminiated?
 	This would be a good place to put some of the attacks in the UNO slides
 	This should not be exhaustive nor should a mention of an attack here eliminate it from future discussion... see Stuxnet
@@ -12,14 +12,14 @@ Add links for teachers and students
 
 ## Overview
 Cyber Security is an increasingly in-demand field of Computer Science. In this course we will look at the major ideas in the fields of Cyber Security or Information Assurance. This is not a "hacking" class but we are looking at the ways that computers, programs, networks, and people are exploited by hackers and what we can do to prevent or minimize the damage caused by bad actors.
-	
-	
+
+
 ## Purpose
 This activity will give students an opportunity to learn about a major hacking event in-depth and share with the class. This also serves as a way to get students in the class to speak and contribute to the discussion.  
-	
+
 As a class looking at how computers are exploited, we will be learning a lot of skills that could be used to access someone's computer or network without their permission.  While all of these skills are easily learned on the Internet, it is important that we agree to respect private property and never access something without permission.
-	
-	
+
+
 ### Objectives
 #### Students will be able to:
 - Discuss ethical behavior in online context
@@ -28,17 +28,17 @@ As a class looking at how computers are exploited, we will be learning a lot of 
 - Describe a major hacking event
 - Identify the vulnerability that led to the attacks
 - Suggest ways to prevent similar attacks
-	
+
 ### Preparation
 - [x] Students will need access to the internet
 - [x] Printed copies of the ethics statement [.docx](docs/ETHICS_STATEMENT.docx)
-	
+
 ### Links
 - For the Teacher
-	
+
 - For the Students
 	- [Ten Commandments of Cyber Ethics](http://cybercitizenship.org/ethics/commandments.html)
-	
+
 ### Vocabulary
 
 ## Teaching Guide
@@ -46,8 +46,8 @@ As a class looking at how computers are exploited, we will be learning a lot of 
 Class introductions
 Cyber Security overview
 Ethics Statement
-> Students need to understand that the material learned in this class 
-> should not be used to access files, networks, or other property that they 
+> Students need to understand that the material learned in this class
+> should not be used to access files, networks, or other property that they
 > do not have permission to access.  Lack of security does not imply permission.
 
 ### Activity
@@ -60,7 +60,7 @@ Have students look at "Ten Commandments of Cyber Ethics"
 - Students will pair up and each take one commandment.  
 	- Create an example and non-example of this commandment.
 	- Present to the class
- 
+
 Re-evaluate opening scenarios and describe why the ethical response is or is not appropriate.  
 - Link the behavior back to ten commandments.
 
@@ -74,8 +74,8 @@ In your research, identify several important ideas:
 - How can this type of attack be prevented in the future?
 
 Compile this information into a presentation for the class.
-	
-	
+
+
 Major Hacking Events:
 - 2014 - Mt. Gox
 - 2011 - Bank of America, Turkish Hacker
@@ -100,7 +100,7 @@ Major Hacking Events:
 > Would the additional security be a benefit or a hindrance?  For example, 10 locks would make your door more secure but would also limit your own access in a speedy way.
 
 - Video: [TED - Hire the Hackers](https://www.ted.com/talks/misha_glenny_hire_the_hackers)
-	
+
 ### Assessment Questions
 - Brainstorm ways to keep yourself safe online.
 - What are some methods hackers use to gain unauthorized access to a computer or network?
