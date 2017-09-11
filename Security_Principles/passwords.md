@@ -44,7 +44,6 @@ Password Managers:
 - Sticky Password
 - 1Password
 - RoboForm
-- Others...
 
 Create a PowerPoint to present to the class.
 - Explain how each works and whether you’d recommend it or not.
