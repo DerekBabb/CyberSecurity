@@ -48,17 +48,26 @@ We will also look at alternatives that would ensure security?
 Install and send a message using PGP. http://openpgp.org/
 - There are many options for using PGP, try different ones and see how they work together.
 
+
+### Activity:
+Send e-mail using Python.
+- Look at your email server settings.
+- Update the info in the Python file.
+- [sendEmail.py](email/sendEmail.py)
+
 ### Wrap-up
 #### Discussion:
 - What could you do to ensure privacy when sending e-mail?
 - What expectation of privacy do you have when sending e-mail?
 - If you had a secret message to send, how would you do it?
-
+- How could you automate e-mailing many people?
 
 ### Assessment Questions
 - Why do e-mail services "read" your e-mail?  What is their goal?
 - How does PGP secure e-mail differently than GMail?
 - Why don't people use services like PGP more often?
+- What is phishing?
+- What is spear-phishing?
 
 ### Extended Learning
 

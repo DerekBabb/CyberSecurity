@@ -58,6 +58,16 @@ Two-Step Verification:
 	- https://www.youtube.com/watch?v=zMabEyrtPRg
 	- https://www.cnet.com/how-to/how-and-why-to-use-two-factor-authentication/
 
+### Activity
+- Password Cracking (video):
+	- https://www.youtube.com/watch?v=7U-RbOKanYs
+- Download the password cracker and the three "encrypted" files.
+	- [PasswordCracker.py](passwords/PasswordCracker.py)
+	- [LockedFile1.py](passwords/LockedFile1.py)
+	- [LockedFile2.py](passwords/LockedFile2.py)
+	- [LockedFile3.py](passwords/LockedFile3.py)
+
+
 ### Discussion:
 - How does two-factor authentication make you safer online?
 - What are potential problems with two-factor passwords?
@@ -73,15 +83,7 @@ Ted Talk: - http://www.ted.com/talks/lorrie_faith_cranor_what_s_wrong_with_your_
 
 
 ### Extended Learning
-- Password Cracking (video):
-	- https://www.youtube.com/watch?v=7U-RbOKanYs
 
-Python Password Generator (bruteforce) < 8 characters
-Perhaps a password account that selects the password from a list
-Should I give hints (how long it is, etc?)
-How can they turn their program into an attack program?
-
-Look online for something similar that exists.
 
 ### Standards Alignment
 
