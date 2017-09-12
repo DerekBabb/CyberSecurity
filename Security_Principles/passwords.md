@@ -1,7 +1,5 @@
 # Password Selection
 
-TODO: Still need to spend some time with the python password cracker.
-
 ## Overview
 Students will learn about good practices in selecting passwords, the dangers of weak passwords or sharing passwords between sites, and how to use password managers.
 
