@@ -63,7 +63,7 @@ Look at the CaesarCipher.py Python file.
 
 ### Extended Learning
 3D Printing: Print the Caesar Cipher ring to use instead of the paper wheel.
-- https://www.thingiverse.com/thing:18315
+- [https://www.thingiverse.com/thing:18315](https://www.thingiverse.com/thing:18315)
 
 Programming: Bruteforce Caesar Decode
 - Using the decode method written in the programming activity, create a program that decodes using all 25 possible Caesar shifts.
