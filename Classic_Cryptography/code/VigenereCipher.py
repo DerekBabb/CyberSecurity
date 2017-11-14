@@ -1,4 +1,6 @@
 #VigenereCipher.py
+import CaesarCipher
+
 alpha = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 
 def findKey(keyword, letterCount):
@@ -16,7 +18,7 @@ def findKey(keyword, letterCount):
 
 
 def main():
-    
+
     message = input("Enter message: ")
     keyword = input("Enter keyword: ")
 
@@ -25,16 +27,15 @@ def main():
 
     message = message.upper()
     for letter in message:
-        
+
         key = findKey(keyword, letterCount)
-        
+
         if (alpha.find(letter) >= 0): #check to see if the letter is actually a letter
             spot = (alpha.find(letter) + key) % 26
             letterCount = letterCount + 1
             secret = secret + alpha[spot]
         else: # letter must have been a number, symbol, or punctuation.
             secret = secret + letter
-            
+
 
     print ("Encoded message:", secret)
-

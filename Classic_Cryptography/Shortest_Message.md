@@ -50,7 +50,7 @@ Finally, once groups have their encoding, they can swap legends and rings with a
 1. In what kinds of situations might the two types of systems be appropriate?
 
 Show Huffman Encoding and describe how it is used.
-https://www.youtube.com/watch?v=dM6us854Jk0
+- https://www.youtube.com/watch?v=dM6us854Jk0
 
 ### Assessment Questions
 - Given that Huffman encoding is more efficient, why is it not used more frequently?

@@ -29,7 +29,8 @@ Teach about how plain-text messages can be converted into another format for the
 
 ## Teaching Guide
 ### Getting Started
-History of Morse Code (video)			https://www.youtube.com/watch?v=bNoOYeS0gs0
+History of Morse Code (video)			
+- https://www.youtube.com/watch?v=bNoOYeS0gs0
 Discuss the need to convert text to another format in order to transmit
 
 ### Activity
@@ -40,19 +41,19 @@ Discuss the need to convert text to another format in order to transmit
 
 ### Wrap-up
 Discussion
-1) Is Morse code still relevant as a communication tool?
-1) How is digital communication different than the electrical pulses  
-1) Is Morse Code a secure form of communication?  For a person?  For a military?
+1. Is Morse code still relevant as a communication tool?
+1. How is digital communication different than the electrical pulses  
+1. Is Morse Code a secure form of communication?  For a person?  For a military?
 
 ### Assessment Questions
 
 ### Extended Learning
 - Python Programming: Complete the Morse Code Translator
 - Arduino: Push-Button Blinker
-https://circuits.io/circuits/5218082-arduino-morse-code-button-blinker
+	- https://circuits.io/circuits/5218082-arduino-morse-code-button-blinker
 
 - Arduino: Auto Blinker
-https://circuits.io/circuits/5218209-arduino-morse-code-auto-blinker
+	- https://circuits.io/circuits/5218209-arduino-morse-code-auto-blinker
 
 ### Standards Alignment
 

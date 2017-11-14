@@ -1,7 +1,5 @@
 # The Vigenère cipher
 
-TODO: Need to make the python code scaffold a bit better.
-
 ## Overview
 The Vigenère cipher is similar to the Caesar cipher but the key shifts between each letter.  This makes frequency analysis more difficult since the same letter in plaintext could be different letters in the cipher text.
 

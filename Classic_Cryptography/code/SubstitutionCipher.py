@@ -18,7 +18,7 @@ def encode(message, key):
         spot = alpah.find(letter) #this is the numbered spot (0 - 25) of your letter in the alphabet.
         #To print the spot letter in the key
         print (key[spot])
-        
+
     return secret
 
 def decode(message, key):
@@ -71,5 +71,5 @@ def main():
 
     secret = encode(message, key)
     print ("Encrypted:", secret)
-    plaintext = decode(secret, key)
-    print ("Decrypted:", plaintext)
+    #plaintext = decode(secret, key)
+    #print ("Decrypted:", plaintext)

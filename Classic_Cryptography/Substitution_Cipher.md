@@ -37,6 +37,13 @@ Introduce the idea of a substitution cipher
 
 - They will then explore a keyword cipher and finally encrypt a message with a keyword to swap with someone else in the class.
 
+### Activity
+- Python Programming: There are multiple ways to generate a "key" alphabet in the cipher.
+	- [SubstitutionCipher.py](code/SubstitutionCipher.py)
+- Python Programming: Program to analyze the letter frequency of a message.
+	- [LetterFrequency.py](code/LetterFrequency.py)
+	- Output of this is a CSV that can be graphed in Excel
+
 ### Wrap-up
 #### Discussion
 1. How is this type of cipher more secure than a shift cipher like Caesar?
