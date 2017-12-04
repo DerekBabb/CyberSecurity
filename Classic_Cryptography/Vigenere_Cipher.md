@@ -25,11 +25,17 @@ To use a polyalphabetic cipher to encrypt and decrypt a message. Analyse the sec
 
 ## Teaching Guide
 ### Getting Started
-- Polyalphabetic Cipher(video)	https://www.youtube.com/watch?v=BgFJD7oCmDE
+- Polyalphabetic Cipher(video)
+  - https://www.youtube.com/watch?v=BgFJD7oCmDE
 
 ### Activity
 - Have students encrypt/decrypt several messages using the Vigenère Square.
 - While students are encrypting, they should be focusing on how patterns emerge and how they might be able to break this code if a keyword was unknown.
+
+### Activity
+- Python Programming:
+  - [VigenereCipher.py](code/VigenereCipher.py)
+
 
 ### Wrap-up
 #### Discussion:
@@ -37,13 +43,12 @@ To use a polyalphabetic cipher to encrypt and decrypt a message. Analyse the sec
 - What are the primary limitations to this type of encryption?
 
 Video: How Blockchain will Transform Economy
-https://www.ted.com/talks/bettina_warburg_how_the_blockchain_will_radically_transform_the_economy
+- https://www.ted.com/talks/bettina_warburg_how_the_blockchain_will_radically_transform_the_economy
 
 ### Assessment Questions
 
 ### Extended Learning
 The Codebook - Chapter 2, The Anonymous Codebreaker
-Python Programming: VigenereCipher.py
 
 ### Standards Alignment
 

@@ -1,9 +1,5 @@
 # Credit Cards & Payment Methods
 
-TODO:
-- Need assessment questions
-- Extended learning RaspPI bitcoin miner could be better
-
 ## Overview
 Payment methods are increasingly digital and the security of the transaction varies depending on the card type and the merchant's ability to secure their data.  In this lesson we will look at the security of different payment methods, how credit card data is stolen, and methods being used to increase security.
 
@@ -29,7 +25,7 @@ Look at the ways electronic payment and credit cards are used and the security r
 ## Teaching Guide
 ### Getting Started
 - Samy Kumar - Magstripe
-	- https://www.youtube.com/watch?v=UHSFf0Lz1qc
+	- [https://www.youtube.com/watch?v=UHSFf0Lz1qc](https://www.youtube.com/watch?v=UHSFf0Lz1qc)
 
 ### Activity:
 - Research how Chip & Pin systems work
@@ -52,12 +48,16 @@ Look at the ways electronic payment and credit cards are used and the security r
 
 ### Video:
 - The Future of Money
-	- https://www.ted.com/talks/neha_narula_the_future_of_money
+	- [https://www.ted.com/talks/neha_narula_the_future_of_money](https://www.ted.com/talks/neha_narula_the_future_of_money)
 
 ### Activity:
 - Research and download a bitcoin wallet
-	- https://bitcoin.org/en/
+	- [https://bitcoin.org/en/](https://bitcoin.org/en/)
 - Find local businesses that accept Bitcoin
+
+### Video:
+- Explanation of Bitcoin
+	- [https://www.youtube.com/watch?v=kubGCSj5y3k](https://www.youtube.com/watch?v=kubGCSj5y3k)
 
 ### Wrap-up
 #### Discussion:
