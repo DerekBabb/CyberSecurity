@@ -1,7 +1,11 @@
 #Rotor I
-rotation = 0
 alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 rotor = "EKMFLGDQVZNTOWYHXUSPAIBRCJ"
+notch = "Q"
+
+def setStart(letter):
+    while(rotor[0] != letter):
+        rotate()
 
 def translate(letter):
     spot = alphabet.find(letter)
@@ -13,7 +17,9 @@ def reverse(letter):
 
 def rotate():
     global rotor
-    global rotation
-    rotation += 1	
+    turnOver = False
+    if rotor[0] == notch:
+        turnOver = True
     rotor = rotor[1:] + rotor[0]
-    
+
+    return turnOver
