@@ -28,6 +28,16 @@ Steganography video - Computerphile:
 - https://www.youtube.com/watch?v=TWEXCYQKyDc
 
 ### Activity:
+Manual Steganography
+Use the pixelation widget at Code.org to make a Favicon.
+- The icon should be 16 x 16.
+- Use 24-bits of color data per pixel.
+
+Once the image is created, use the least significant bit of each red, green, and blue channel to hide a message.
+- https://www.rapidtables.com/convert/number/ascii-to-binary.html
+The data from your message should be spread across all of the RGB pixels in your Favicon.
+
+### Activity:
 Use several available Steganography tools and compare:
 - https://www.openstego.com/
 - https://sourceforge.net/projects/stegtool/
