@@ -1,8 +1,5 @@
 # Text Encoding & Binary Numbers
 
-TODO: Finish writing activity guides for worksheets
-Clarify programming.
-
 ## Overview
 In this lesson, students will learn about ASCII encoding of text. Students will also look at how binary numbers can be used to store and transmit data on computer systems.
 
@@ -48,8 +45,10 @@ Then students will convert a series of binary numbers to base-10 and back to tex
 
 ### Activity (coding):
 Python Programming:
-- Create a text to ASCII to binary converter
-
+- Using the AsciiEncoding.py as template:
+	- Create a text to ASCII to binary converter
+	- Try to convert each letter to the ASCII equivalent.
+	
 ### Wrap-up
 <b>Discussion</b>
 1. If all data is stored as 0s and 1s, how does a computer know if a file is text or a picture?

@@ -33,9 +33,25 @@ Use the pixelation widget at Code.org to make a Favicon.
 - The icon should be 16 x 16.
 - Use 24-bits of color data per pixel.
 
+Create a protocol for your Steganography.
+
+1. How are the bits modified on the image.
+
+1. How are the letters embedded in the image?
+
+1. How do I know when the message is done? Is there a "End of Message" or message length included?
+
+1. In a 16 x 16 image, what is the maximum message length?
+
+1. Write your protocol in plain language... how do you deal with the width/height data at the front of your favicon? How many pixels does it take for one letter?
+
+1. Hide a message in your favicon, post the binary in this file.
+
 Once the image is created, use the least significant bit of each red, green, and blue channel to hide a message.
 - https://www.rapidtables.com/convert/number/ascii-to-binary.html
 The data from your message should be spread across all of the RGB pixels in your Favicon.
+
+
 
 ### Activity:
 Use several available Steganography tools and compare:
@@ -57,7 +73,9 @@ Use several available Steganography tools and compare:
 Read: Blown to Bits - Chapter 3
 Ghosts in the Machine
 
-Programming: Create Steganography in Java
+Blog Post:
+
+Programming: Create Steganography in Java using the PictureEdit class or the Picture Lab APCSA  
 
 ### Standards Alignment
 

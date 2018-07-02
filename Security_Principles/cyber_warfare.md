@@ -43,10 +43,14 @@ Students will explore some of the more famous cyber attacks and discuss how coun
 - Google & China 2010
 - Stuxnet
 
+### Activity
+- [Cyber Security Research](docs/Cyber_Warfare_Research.docx)
+
 Watch: PBS Nova - Cyberwar Threat
 - http://www.pbs.org/video/2365582515/
 
 ### Wrap-up
+- [Cyber Security Reflection](docs/Cyber_Warfare_Reflection.docx)
 #### Discussion:
 - What is the reason for engaging in cyber war for a non-nation?  Why would a group choose to target a government’s computer systems?		
 	- Who should monitor this type of action?

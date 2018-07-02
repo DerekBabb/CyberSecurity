@@ -56,9 +56,6 @@ Introduce the idea of a substitution cipher
 - Is there are way to change this encryption so it is not vulnerable to frequency analysis?
 
 ### Extended Learning
-Python Programming: SubstitutionCipher.py
-Python Programming: FrequencyAnalysis.py
-- Output of this is a CSV that can be graphed in Excel
 Arduino Programming: Random Alphabet Generator
 	https://circuits.io/circuits/5157643-arduino-alphabet-generator/
 

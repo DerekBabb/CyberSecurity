@@ -13,7 +13,7 @@ Look at a common method of securing belongings and the mathematics behind the po
 
 ### Preparation
 - [x] Masterlock combination lock
-- [x] Print sheets to help find number of combinations[[png]](Combo_Locks/ComboLocks.png)
+- [x] Print sheets to help find number of combinations[ComboLocks.png](Combo_Locks/ComboLocks.png)
 
 ### Links
 - For the Teacher
@@ -40,6 +40,10 @@ Look at a common method of securing belongings and the mathematics behind the po
 	- Calculate the 100 possible combos based on knowing the last digit
 	- Open the lock
 
+### Activity
+- Use the Combo Breaker python file to automate the process of listing all possible combinations.
+	- [ComboBreaker.py](Combo_Locks/comboBreaker.py)
+
 ### Activity:
 - Show the Samy Kumar video
 	- https://www.youtube.com/watch?v=09UgmwtL12c
@@ -51,6 +55,8 @@ Look at a common method of securing belongings and the mathematics behind the po
 #### Discussion:
 - Why are there not 64,000 actual combinations?
 - Knowing that it can be broken in 8 tries, why even bother with locks?
+- How do other locks like directional locks work?
+	- Are there weaknesses to other locks?
 
 #### Video:
 - Top Hacker Shows Us How It's Done

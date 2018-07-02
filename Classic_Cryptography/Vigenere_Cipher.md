@@ -39,16 +39,27 @@ To use a polyalphabetic cipher to encrypt and decrypt a message. Analyse the sec
 
 ### Wrap-up
 #### Discussion:
-- How does this cipher make the code more secure?
+- How does this cipher make the code more secure than previously discussed ciphers?
 - What are the primary limitations to this type of encryption?
 
 Video: How Blockchain will Transform Economy
 - https://www.ted.com/talks/bettina_warburg_how_the_blockchain_will_radically_transform_the_economy
 
 ### Assessment Questions
+- How recently was the Vigenere cipher used?
+- Why was it so much longer-lived than the Caesar Cipher that it is based on?
+- What is the information leak within the cipher?
 
 ### Extended Learning
 The Codebook - Chapter 2, The Anonymous Codebreaker
+
+As with our first blog post, you should write a post that includes writing, images, links, and other media resources as needed to answer the following questions. The questions should be a guide for your writing but it would be nice if you answered the general questions.
+
+- How did encryption move from a military application to a more everyday pursuit?
+- What types of purposes did codes and encryption serve?
+- How did people engage in codes as a hobby or interest?
+- Why were solutions to ciphers like Vigenere not published when discovered?
+- What are some other take-aways from this chapter you found interesting?
 
 ### Standards Alignment
 

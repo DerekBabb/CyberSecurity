@@ -54,6 +54,9 @@ Send e-mail using Python.
 - Look at your email server settings.
 - Update the info in the Python file.
 - [sendEmail.py](email/sendEmail.py)
+	- Can you email multiple people?
+	- Could you pull the list of people to email from an external file?
+	- How can you personalize the email for the recipient?
 
 ### Wrap-up
 #### Discussion:

@@ -18,17 +18,18 @@ Best practices in password selection include selecting a different password for 
 
 ### Links
 - For the Teacher
-	- https://en.wikipedia.org/wiki/Password_cracking
+	- [https://en.wikipedia.org/wiki/Password_cracking](https://en.wikipedia.org/wiki/Password_cracking)
 
 - For the Students
-	- How Secure is my Password https://howsecureismypassword.net/
+	- How Secure is my Password
+	- [https://howsecureismypassword.net/](https://howsecureismypassword.net/)
 
 ### Vocabulary
 
 ## Teaching Guide
 ### Getting Started:
 How to pick a good password (video)
-- https://www.youtube.com/watch?v=3NjQ9b3pgIg
+- [https://www.youtube.com/watch?v=3NjQ9b3pgIg](https://www.youtube.com/watch?v=3NjQ9b3pgIg)
 
 - Discussion of Password selection… how am I hacked through my password?
 
@@ -53,12 +54,12 @@ Create a PowerPoint to present to the class.
 Two-Step Verification:
 
 - Gmail:
-	- https://www.youtube.com/watch?v=zMabEyrtPRg
-	- https://www.cnet.com/how-to/how-and-why-to-use-two-factor-authentication/
+	- [https://www.youtube.com/watch?v=zMabEyrtPRg](https://www.youtube.com/watch?v=zMabEyrtPRg)
+	- [https://www.cnet.com/how-to/how-and-why-to-use-two-factor-authentication/](https://www.cnet.com/how-to/how-and-why-to-use-two-factor-authentication/)
 
 ### Activity
 - Password Cracking (video):
-	- https://www.youtube.com/watch?v=7U-RbOKanYs
+	- [https://www.youtube.com/watch?v=7U-RbOKanYs](https://www.youtube.com/watch?v=7U-RbOKanYs)
 - Download the password cracker and the three "encrypted" files.
 	- [PasswordCracker.py](passwords/PasswordCracker.py)
 	- [LockedFile1.py](passwords/LockedFile1.py)
@@ -72,7 +73,7 @@ Two-Step Verification:
 - What would I tell my friends or family to do to make their passwords more secure?
 
 ### Wrap-up
-Ted Talk: - http://www.ted.com/talks/lorrie_faith_cranor_what_s_wrong_with_your_pa_w0rd
+Ted Talk: - [http://www.ted.com/talks/lorrie_faith_cranor_what_s_wrong_with_your_pa_w0rd](http://www.ted.com/talks/lorrie_faith_cranor_what_s_wrong_with_your_pa_w0rd)
 
 ### Assessment Questions
 - How am I currently vulnerable to password attacks?

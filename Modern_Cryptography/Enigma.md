@@ -18,9 +18,11 @@ The German Enigma is one of the first examples of mechanization of cryptography.
 
 ### Links
 - For the Teacher
-	- [Enigma Pringles Can](http://makezine.com/2012/06/06/how-to-papercraft-enigma-machine/)
+	- [Enigma Pringles Can Description](http://makezine.com/2012/06/06/how-to-papercraft-enigma-machine/)
+	- [Enigma Pringles Can PDF](Enigma/pringlesenigma3a4.pdf)
+	- [Enigma Worksheet](Enigma/Enigma_Activity.docx)
 - For the Students
-
+	- [Enigma Rotor Details](https://en.wikipedia.org/wiki/Enigma_rotor_details)
 ### Vocabulary
 
 ## Teaching Guide
@@ -29,7 +31,24 @@ German Enigma - Numberphile (video):
 - https://www.youtube.com/watch?v=G2_Q9FoD-oQ
 
 ### Activity:
-- Explain the use and function of the Enigma Pringles can.  Decode and encode the messages in the worksheet.
+- Explain the use and function of the Enigma Pringles can.
+		- Print, laminate, cut enough enigma strips for each can.
+			- The can itself can store the un-used rotors.
+  	- What is the "notch" point for each rotor?
+		- Define the direction you will turn the rotor (I used "away" from the user.)
+			- Depending on these uses, the messages may not work out perfectly.
+			- Protocols need to be the same between messages to be able to successfully encode/decode.
+- Decode and encode the messages in the worksheet.
+
+### Activity:
+Create a Python version of the Enigma cipher.
+- Use the existing files and create the missing rotors (4 & 5) as well as another reflector (b).
+- Historical rotor settings can be found on Wikipedia
+	- [Enigma.py](Enigma/Python_Enigma/Enigma.py)
+	- [Rotor1.py](Enigma/Python_Enigma/Rotor1.py)
+	- [Rotor2.py](Enigma/Python_Enigma/Rotor2.py)
+	- [Rotor3.py](Enigma/Python_Enigma/Rotor3.py)
+	- [ReflectorA.py](Enigma/Python_Enigma/ReflectorA.py)
 
 ### Wrap-up
 Video - The flaw in the German Enigma:
@@ -48,12 +67,21 @@ Video - The flaw in the German Enigma:
 
 
 ### Extended Learning
-Read: Chapter 3 - The Code Book
+#### Read: Chapter 3 - The Code Book
 The Mechanization of Secrecy
 
-Watch: Imitation Game Movie
+After reading Chapter 3 of the Code Book, reflect on the use of the German Enigma during World War 2 and the work of Alan Turing and others to break the code. Again, this is a blog so I would like you to talk about it in a manner that explains the technology and it's implications to an audience who does not know about it.
 
-Programming: Python Enigma
+There are a few things I think you should look at in your blog:
+- Prior military encryption
+- Why was enigma better?
+- Who tried to break it?
+- Who was successful at breaking Enigma?
+- How did they break Enigma?
+- What were the implications of breaking Enigma while trying to keep that secret from the Germans?
+Please use photos and examples in your blog. This should be posted to your Wordpress blog.
+
+#### Watch Movie: Imitation Game
 
 ### Standards Alignment
 

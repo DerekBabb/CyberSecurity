@@ -30,6 +30,7 @@ The purpose of this lesson is to have students explore alternate ways of encodin
 - For the Students
 
 ### Vocabulary
+Huffman Encoding - A technique for creating encoding where frequently used letters have shorter encoding.
 
 ## Teaching Guide
 ### Getting Started
@@ -54,7 +55,7 @@ Show Huffman Encoding and describe how it is used.
 
 ### Assessment Questions
 - Given that Huffman encoding is more efficient, why is it not used more frequently?
-
+- What types of messages would suffer under the Huffman encoding scheme?
 
 ### Extended Learning
 

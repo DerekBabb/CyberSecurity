@@ -19,4 +19,3 @@ def scramble(password):
         scrambled += chr(ord(ch) * 107 % 106 + 65)
 
     return scrambled
-

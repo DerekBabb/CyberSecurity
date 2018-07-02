@@ -14,7 +14,8 @@ Many people don't use this software or only use the software that came with thei
 - Recommend a software product based on related factors.
 
 ### Preparation
-- [x] Make copies of worksheet or distribute digitally. [[docx]](docs/Antivirus_Software_Research.docx)
+- [x] Make copies of worksheet or distribute digitally.
+	- [Antivirus Software Research](docs/Antivirus_Software_Research.docx)
 
 ### Links
 - For the Teacher

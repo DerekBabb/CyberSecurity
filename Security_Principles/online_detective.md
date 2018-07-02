@@ -81,7 +81,13 @@ Search for a person
 
 ### Extended Learning
 Read: Blown to Bits - Chapter 2; Naked in the Sunlight
-
+Blog Post:
+- What information about yourself is available online?
+- What information can you control?  What is beyond your ability to control?
+- What are some strategies for avoiding Phishing e-mails?
+- How can you tell if a site is valid or if it is a fake?
+- Based on the info about you available online, could a hacker call into your phone company or other service provider and convince them to give personal info?
+- How can you make yourself more secure from this type of attack?
 ### Standards Alignment
 
 ## License

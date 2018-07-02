@@ -11,7 +11,7 @@ viewAll = True #True or False, select False for maximum speed.
 #There are three files we want to break.
 #LockedFile1 - we know the password is only 4 characters and only lowercase letters
 #LockedFile2 - 4 characters long but mix of upper and lowercase letters
-#LockedFile3 - Between 4-6 characters long, mix of uppercase, lowercase, symbols, and numbers.
+#LockedFile3 - Between 4-6 characters long, mix of upper, lowercase and symbols.
 
 #--------------------------------------------------------------------------
 

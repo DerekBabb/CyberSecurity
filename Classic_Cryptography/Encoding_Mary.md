@@ -56,6 +56,12 @@ What about digitally? Are there ways you could send these messages in the open w
 ### Extended Learning
 Read Chapter 1 of "The Code Book" - Mary Queen of Scots
 
+Based on reading of chapter 1 from the Code Book and our work with ciphers in class, answer the following questions.
+
+Please state your answer as a blog post and support your points with references to the book, events that happened, and images as needed.
+
+How have ciphers been used? What is the purpose of cryptography? How has the advent of cryptography changed the course of history? Cite specific instances where better cryptography might have changed events and how.
+
 ### Standards Alignment
 
 
