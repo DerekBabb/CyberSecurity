@@ -44,10 +44,6 @@ Linux systems make up the majority of web servers and other internet appliances.
 - What is the command to change directories?
 - How would I see the contents of a file called "fish.txt"?
 
-### Extended Learning
-- VirtualBox - Ubuntu Linux
-	- Explore a virtualized linux system
-
 ### Standards Alignment
 
 ## License

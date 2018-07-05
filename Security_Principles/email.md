@@ -1,9 +1,5 @@
 # E-mail
 
-TODO:
-Need assessment questions.  Also, make sure that the activity is well defined.
-Create a tutorial of PGP installation.
-
 ## Overview
 Students will explore the security of e-mail, disposable e-mail accounts and use a secure e-mail system.
 

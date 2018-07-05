@@ -16,12 +16,33 @@ Modern websites use databases to store and manage information.  We want to bette
 - For the Teacher
 
 - For the Students
-
+  - [Using Databases with HTML.docx](/docs/Using_Databases_HTML.docx)
+  - [Viewing Databases with HTML.docx](/docs/Viewing_SQL_HTML.docx)
+  - [Secure Viewing SQL with HTML.docx](/docs/Secure_Viewing_SQL_HTML.docx)
 ### Vocabulary
 
 ### Teaching Guide
+### Activity
+Follow the guides on code academy for PHP and SQL.
+- These will help you better understand how these languages work.
+- Understanding the language will allow you to follow how the flaws are exploited.
+
+### Activity
+Follow the [Using Databases with HTML.docx](/docs/Using_Databases_HTML.docx) document to create a way to add to your existing SQL database through a web form.
+
+### Activity
+Follow the [Viewing Databases with HTML.docx](/docs/Viewing_SQL_HTML.docx) document to create web page that will allow you to see the contents of an SQL database on a web page.
+
+### Activity
+Follow the [Secure Viewing SQL with HTML.docx](/docs/Secure_Viewing_SQL_HTML.docx) document to create a secure, password protected method to see the contents of an SQL database.
+- This is not totally Secure.
+- How can this form be broken into?
+- What allows this type of from to be injected using a simple SQL injection?
 
 ### Wrap-up
+- How could your secure site be made truly secure?
+- Why did the SQL injection work?
+- How did knowing the protocols of SQL and PHP allow you to break the security you had built?
 
 ### Assessment Questions
 

@@ -1,8 +1,4 @@
 # Basic HTML & CSS
-
-TODO:
-- Work on better overview and purpose
-
 ## Overview
 Students will learn HTML and CSS in order to make a basic web site. The knowledge for creating a web page can come from several sources, including prior experience.
 
@@ -41,6 +37,7 @@ The world wide web is built on a series of individual pages written in HTML.  Fo
 ### Activity:
 #### Make a web site:
 - Build a website for yourself using the methods and techniques you’ve learned as part of the HTML tutorials you’ve done.  Your site should use aspects of HTML, CSS, Bootstrap, Java Script and other tools you’ve learned.
+
 #### Pages you need to build:
 - Index.html – This will be the main page and should include links to your other pages.  Add information about yourself to make the page have some content.
 

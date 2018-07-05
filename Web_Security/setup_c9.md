@@ -1,10 +1,6 @@
 # Setup Site on Cloud 9
-
-TODO:
-- Create a "how to" for the teacher on creating a Cloud 9 accoun and creating student accounts within it.
-
 ## Overview
-We will be moving our website that we built in 6-1 to a Cloud 9 server.  This will allow us to see what our web page looks like on the web and we can give access to our pages to others.
+We will be creating a new workspace in Cloud 9 for HTML development. This will allow us to create pages that can be shown to others and we have the benefit of a full server.
 
 ## Purpose
 Use Cloud 9, a development environment, to host a web site and begin engaging with some of the server-side elements of a web site.
@@ -19,23 +15,27 @@ Use Cloud 9, a development environment, to host a web site and begin engaging wi
 
 ### Links
 - For the Teacher
-	-	Document on setting up C9
 	- https://c9.io/
 - For the Students
 	- https://c9.io/TEAMNAME
+	- [Using MySQL on Cloud9.docx](/docs/Using_MySQL_Cloud9.docx)
 
 ### Vocabulary
 
 ## Teaching Guide
 ### Getting Started:
-- Discuss what a web server is.
+- Discuss what a web server is and how it is different than a personal computer.
+- What are some of the services that we will use that are on a server?
 
 ### Activity:
-- Create an account on Cloud 9
+- Create a new workspace on your Cloud 9 account.
+- Choose the HTML template for this workspace.
+- Make a basic HTML site to explore how HTML works on Cloud 9.
 
 ### Activity:
-- Upload your existing site to C9
-- Modify your site on the C9 platform
+- Follow the [Using MySQL on Cloud9.docx](/docs/Using_MySQL_Cloud9.docx)
+- Create a SQL database on Cloud 9.
+	- This will be used in later lessons.
 
 ### Wrap-up
 #### Discussion:

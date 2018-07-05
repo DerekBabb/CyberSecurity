@@ -11,7 +11,6 @@ This curriculum is designed for a high school computer science course focused on
 - [Malicious Software](./Malware/readme.md)
 - [Physical Security](./Physical_Security/readme.md)
 - [Web Security](./Web_Security/readme.md)
-- Networking and Security
 
 ## Usage
 The units and topics outlined are designed to be stand-alone. Each unit can be taught alone or all of the units could be taught as a full-year course in cyber security.
