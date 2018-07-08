@@ -24,7 +24,7 @@ Look at the ways electronic payment and credit cards are used and the security r
 
 ## Teaching Guide
 ### Getting Started
-- Samy Kumar - Magstripe
+- Samy Kamkar - Magstripe
 	- [https://www.youtube.com/watch?v=UHSFf0Lz1qc](https://www.youtube.com/watch?v=UHSFf0Lz1qc)
 
 ### Activity:

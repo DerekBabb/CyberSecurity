@@ -1,11 +1,5 @@
 # Keys & Locks
 
-TODO:
-- Need to make a worksheet for the locks stuff
-- Need assessment questions
-- Create worksheet should liken the Lock "System" to that of a computing system
-- Clean up activity with blog post
-
 ## Overview
 Locking the door is one of the easiest methods of securing our house, offices, and other important spaces.  Standard locks are vulnerable to attack from lock picking or more crude methods of breaking in.  In addition to securing computer systems digitally, students should consider how computers are physically secured.
 

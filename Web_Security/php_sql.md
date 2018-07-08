@@ -19,6 +19,7 @@ Modern websites use databases to store and manage information.  We want to bette
   - [Using Databases with HTML.docx](/docs/Using_Databases_HTML.docx)
   - [Viewing Databases with HTML.docx](/docs/Viewing_SQL_HTML.docx)
   - [Secure Viewing SQL with HTML.docx](/docs/Secure_Viewing_SQL_HTML.docx)
+
 ### Vocabulary
 
 ### Teaching Guide

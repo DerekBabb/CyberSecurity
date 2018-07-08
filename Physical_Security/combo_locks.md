@@ -45,7 +45,7 @@ Look at a common method of securing belongings and the mathematics behind the po
 	- [ComboBreaker.py](Combo_Locks/comboBreaker.py)
 
 ### Activity:
-- Show the Samy Kumar video
+- Show the Samy Kamkar video
 	- https://www.youtube.com/watch?v=09UgmwtL12c
 
 -	Use Samy's method

@@ -21,6 +21,9 @@ Linux systems make up the majority of web servers and other internet appliances.
 		- https://www.codecademy.com/learn/learn-the-command-line
 	- Terminus
 		- http://web.mit.edu/mprat/Public/web/Terminus/Web/main.html
+	- Command Line Challenge
+		- https://cmdchallenge.com/
+
 
 ### Vocabulary
 

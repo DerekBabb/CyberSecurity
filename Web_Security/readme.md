@@ -1,9 +1,8 @@
 # Web Security
 
+1. [Setup Site on Cloud 9](setup_c9.md)
 1. [HTML & CSS](html_css.md)
 1. [Linux Command Line](linux_cli.md)
-1. [Setup Site on Cloud 9](setup_c9.md)
-1. [SQL Databases](sql.md)
 1. [PHP & SQL](php_sql.md)
 1. [Network Security](networks.md)
 
