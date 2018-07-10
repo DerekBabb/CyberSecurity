@@ -15,7 +15,7 @@ def encode(message, key):
             secret = secret + alpha[spot]
         else: # letter must have been a number, symbol, or punctuation.
             secret = secret + letter
-    
+
     return secret
 
 #def decode(message, key):
@@ -24,8 +24,11 @@ def encode(message, key):
 def main():
     message = input("Enter a message: ")
     key = int(input("Enter a key: "))
-    
+
     secret = encode(message, key)
     print ("Encrypted:", secret)
     #plaintext = decode(secret, key)
     #print ("Decrypted:", plaintext)
+
+
+main()
