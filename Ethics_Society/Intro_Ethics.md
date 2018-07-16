@@ -43,7 +43,7 @@ Ethics Statement
 ### Activity
 Look at several scenarios about ethical situations
 - What would you do?
-- Did the people involve act ethically?
+- Did the people involved act ethically?
 - Who was harmed in this interaction, who is the victim?
 
 Have students look at "Ten Commandments of Cyber Ethics"
