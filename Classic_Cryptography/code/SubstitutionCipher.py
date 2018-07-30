@@ -11,13 +11,14 @@ def encode(message, key):
 
     # To look at every letter in a message
     for letter in message:
-        secret = secret + letter # adding each letter from the message to the secret.
-        #This process didn't actually encode because it is an exact copy of the message.
 
         #To find the spot of a letter
         spot = alpha.find(letter) #this is the numbered spot (0 - 25) of your letter in the alphabet.
         #To print the spot letter in the key
-        print (key[spot])
+        if(spot >= 0 ):
+            secret = secret + key[spot]
+        else:
+            secret = secret + letter
 
     return secret
 
