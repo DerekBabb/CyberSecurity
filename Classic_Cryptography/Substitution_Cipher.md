@@ -12,7 +12,7 @@ Substitution ciphers are significantly more secure than a Caesar cipher but requ
 - Identify the mathematical advantage of substitution over shift cipher.
 
 ### Preparation
-- [x] Print the [Substitution Cipher Activity Worksheet](Substitution_Cipher_Activity.docx)
+- [x] Print the [Substitution Cipher Activity Worksheet](Substitution_Cipher/Substitution_Cipher_Activity.docx)
 - [x] Arduino Student Inventor Kit (Extended Activity)
 
 ### Links
