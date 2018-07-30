@@ -15,7 +15,7 @@ def encode(message, key):
         #This process didn't actually encode because it is an exact copy of the message.
 
         #To find the spot of a letter
-        spot = alpah.find(letter) #this is the numbered spot (0 - 25) of your letter in the alphabet.
+        spot = alpha.find(letter) #this is the numbered spot (0 - 25) of your letter in the alphabet.
         #To print the spot letter in the key
         print (key[spot])
 
