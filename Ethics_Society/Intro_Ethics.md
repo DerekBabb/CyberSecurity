@@ -25,7 +25,7 @@ As a class looking at how computers are exploited, we will be learning a lot of 
 
 ### Links
 - For the Teacher
-	- [Ethics Scenarios PowerPoint](docs/TenCommandment_Scenarios.pptx)
+	- [Ethics Scenarios PowerPoint](docs/Ten_Commandment_Scenarios.pptx)
 - For the Students
 	- [Ten Commandments of Cyber Ethics](https://en.wikipedia.org/wiki/Ten_Commandments_of_Computer_Ethics)
 
