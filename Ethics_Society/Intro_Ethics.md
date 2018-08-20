@@ -27,7 +27,7 @@ As a class looking at how computers are exploited, we will be learning a lot of 
 - For the Teacher
 
 - For the Students
-	- [Ten Commandments of Cyber Ethics](http://cybercitizenship.org/ethics/commandments.html)
+	- [Ten Commandments of Cyber Ethics](https://en.wikipedia.org/wiki/Ten_Commandments_of_Computer_Ethics)
 
 ### Vocabulary
 
