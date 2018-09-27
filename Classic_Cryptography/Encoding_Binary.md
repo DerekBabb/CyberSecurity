@@ -13,16 +13,20 @@ All data is stored as binary 0s and 1s on a computer.  This means that every ima
 - Encode/decode a message using ASCII/Binary
 
 ### Preparation
+- [x] Print the [Code.org Flippy Do](https://drive.google.com/file/d/0B6iNirqJ5EuVVTlla0RpR2RIa2s/view)
 - [x] Print the [ASCII Encoding Worksheet](Encoding/Ascii_Encoding_Activity.docx)
 - [x] Print the [Binary Conversion Worksheet](Encoding/Binary_Conversion.docx)
 - [x] Print the [ASCII Hex Decoding Worksheet](Encoding/Ascii_Hex_Decoding.docx)
 - [x] Download the [AsciiEncoding.py](code/AsciiEncoding.py) python file.
+
 
 ### Links
 - For the Teacher
 	- https://en.wikipedia.org/wiki/Binary_number
 	- https://en.wikipedia.org/wiki/ASCII
 - For the Students
+	- Binary Number Game
+	- https://studio.code.org/projects/applab/iukLbcDnzqgoxuu810unLw
 
 ### Vocabulary
 Number System: A method of representing numbers.
@@ -37,6 +41,7 @@ ASCII: American Standard Code for Information Interchange - A method for represe
 > As such, every bit of data is ultimately represented as binary numbers.
 
 - Binary Numbers Video https://www.youtube.com/watch?v=1GSjbWt0c9M
+- ASCII, Unicode, UTF8 encoding video https://www.youtube.com/watch?v=MijmeoH9LT4
 
 ### Activity
 Students will convert a message to ASCII using the chart.  These will be base-10 numbers for now.  Students will also decode a message and create their own message to swap and decode with another student.
@@ -48,7 +53,7 @@ Python Programming:
 - Using the AsciiEncoding.py as template:
 	- Create a text to ASCII to binary converter
 	- Try to convert each letter to the ASCII equivalent.
-	
+
 ### Wrap-up
 <b>Discussion</b>
 1. If all data is stored as 0s and 1s, how does a computer know if a file is text or a picture?

@@ -14,7 +14,7 @@ The Caesar Cipher is one of the best known forms of encryption.  This signifies 
 ### Preparation
 - [x] Print the [Caesar Cipher wheel](Caesar_Cipher/Papercraft_Caesar_Wheel.docx) on cardstock
 - [x] Get brad fasteners
-- [x] Print [Caesar Cipher Worksheet](Caesar_Cipher_Activity.docx)
+- [x] Print [Caesar Cipher Worksheet](Caesar_Cipher/Caesar_Cipher_Activity.docx)
 - [x] Download [CaesarCipher.py](code/CaesarCipher.py) python file.
 
 ### Links
