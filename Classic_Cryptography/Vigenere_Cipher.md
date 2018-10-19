@@ -14,7 +14,7 @@ To use a polyalphabetic cipher to encrypt and decrypt a message. Analyse the sec
 
 ### Preparation
 - [x] Print copies of The [Vigenère Square](Vigenere_Cipher/Vigenere_square.svg)
-- [x] Print copies of The [Vigenère Activity Worksheet](Vigenere_Cipher/Vigenere_square_Activity.docx)
+- [x] Print copies of The [Vigenère Activity Worksheet](Vigenere_Cipher/Vigenere_Cipher_Activity.docx)
 
 ### Links
 - For the Teacher
