@@ -50,7 +50,10 @@ Video:
 ### Extended Learning
 - 3D Printing: TSA Master Lock Sets
 	- https://3dprint.com/143860/tsa-master-keys-hacked-again/
-
+- Door Security - Shakacon
+	- https://www.youtube.com/watch?v=4YYvBLAF4T8
+- SANS ICS Security Summit 2017 - Same talk as above but more information... no swearing.
+	- https://www.youtube.com/watch?v=qg-zK2zv4ng
 ### Standards Alignment
 
 ## License
