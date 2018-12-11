@@ -1,4 +1,3 @@
-
 #Rotor III
 alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 rotor = "BDFHJLCPRTXVZNYEIWGAKMUSQO"
@@ -22,3 +21,5 @@ def rotate():
     if rotor[0] == notch:
         turnOver = True
     rotor = rotor[1:] + rotor[0]
+
+    return turnOver
