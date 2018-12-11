@@ -61,6 +61,14 @@ Everyday Cybercrime
 - Anti-spyware
 
 ### Extended Learning
+EFF Browser Extensions Lesson
+- https://sec.eff.org/topics/https-everywhere-and-privacy-badger
+
+EFF End-to-end Encryption communication
+- https://sec.eff.org/topics/e2e-encrypted-apps
+
+EFF How to use Signal Lesson
+- https://sec.eff.org/topics/how-to-install-signal
 
 ### Standards Alignment
 

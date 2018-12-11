@@ -43,6 +43,7 @@ Look at a common method of securing belongings and the mathematics behind the po
 ### Activity
 - Use the Combo Breaker python file to automate the process of listing all possible combinations.
 	- [ComboBreaker.py](Combo_Locks/comboBreaker.py)
+	- [Snap Coding Version](https://snap.berkeley.edu/snapsource/snap.html#present:Username=derekbabb&ProjectName=ComboLock2)
 
 ### Activity:
 - Show the Samy Kamkar video

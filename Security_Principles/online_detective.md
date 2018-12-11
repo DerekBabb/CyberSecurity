@@ -88,6 +88,9 @@ Blog Post:
 - How can you tell if a site is valid or if it is a fake?
 - Based on the info about you available online, could a hacker call into your phone company or other service provider and convince them to give personal info?
 - How can you make yourself more secure from this type of attack?
+
+EFF Locking Down Social Media
+- https://sec.eff.org/topics/locking-down-social-media
 ### Standards Alignment
 
 ## License

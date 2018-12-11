@@ -83,6 +83,11 @@ Ted Talk: - [http://www.ted.com/talks/lorrie_faith_cranor_what_s_wrong_with_your
 
 ### Extended Learning
 
+EFF Passwords Lesson
+- https://sec.eff.org/topics/passwords
+- https://sec.eff.org/topics/password-managers
+EFF Two-Factor Authentication Lesson
+- https://sec.eff.org/topics/two-factor-authentication
 
 ### Standards Alignment
 

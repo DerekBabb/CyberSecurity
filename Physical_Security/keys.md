@@ -31,6 +31,13 @@ Understand locks as systems and understand how they work to understand how they 
 - Research how bump key works
 
 ### Activity:
+- Look at the pin guides provided by Devian Ollam
+	- https://github.com/deviantollam/decoding
+- Using those overlays and a photo editor, try to work out the pin settings for a key with only a photo.
+	- Examples in this video: https://www.youtube.com/watch?v=AayXf5aRFTI starting at around 13:00.
+
+
+### Activity:
 - Read about TSA lock sets being leaked
 - Write a response (blog?) on the consequences of including a "back door" to a lock.
 
@@ -54,6 +61,8 @@ Video:
 	- https://www.youtube.com/watch?v=4YYvBLAF4T8
 - SANS ICS Security Summit 2017 - Same talk as above but more information... no swearing.
 	- https://www.youtube.com/watch?v=qg-zK2zv4ng
+- Source Conference - 2010
+	- https://www.youtube.com/watch?v=vxXryID5F7M
 ### Standards Alignment
 
 ## License
