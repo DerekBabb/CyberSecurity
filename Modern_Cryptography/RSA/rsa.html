@@ -1,0 +1,78 @@
+
+<html ng-app="rsa">
+<head>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.7/angular.min.js"></script>
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <script type="text/javascript" src="rsa.js"></script>
+
+    <style>
+        .ng-cloak { display: none !important; }
+    </style>
+</head>
+<body ng-controller="main">
+<div class="container">
+    <h1 ng-show="loaded">Give it at least 30 seconds to load</h1>
+    <div ng-show="!loaded" class="row ng-cloak">
+        <div class="form-group">
+            <label class="control-label">Choose First Prime</label>
+            <select class="form-control" ng-model="prime1" ng-change="updatePrimes()">
+                <option ng-repeat="option in primes" value="{{option}}">{{option}}</option>
+            </select>
+        </div>
+        <div class="form-group">
+            <label class="control-label">Choose Second Prime</label>
+            <select class="form-control" ng-model="prime2" ng-change="updatePrimes()">
+                <option ng-repeat="option in primes" value="{{option}}">{{option}}</option>
+            </select>
+        </div>
+    </div>
+    <div ng-show="step2" class="row ng-cloak">
+        <hr />
+        <h1>Your Public Modulus: {{prime1 * prime2}}</h1>
+        <div class="form-group">
+            <label class="control-label">Choose Your Public Key, but don't pick any of these: {{factors}}</label>
+            <select class="form-control" ng-model="public" ng-change="updatePublic()">
+                <option ng-repeat="option in primes" value="{{option}}">{{option}}</option>
+            </select>
+        </div>
+        <h1 ng-if="changedOnce && goodPublic" style="color: green;">This Public Key Works! Nice Job!</h1>
+        <h1 ng-if="changedOnce && !goodPublic" style="color: red;">ERROR! Choose a different Public key!</h1>
+    </div>
+    
+	<div ng-show="goodPublic" class="row ng-cloak">
+        <hr />
+        <h1>It's time to share with everyone! Your Public Key is {{public}} and your Public Modulus is {{prime1*prime2}}. We usually share these in a pair: ({{public}}, {{prime1 * prime2}})</h1>
+        <h1>Your Secret Key, which is computed automatically, can be found by hovering over the button below</h1>
+        <p><button class="btn btn-default" id="secretButton">Hover to reveal Secret key</button> <h2 style="font-weight: bold" ng-if="buttonHover">{{secret}}</h2></p>
+        <!--
+		<p>How Someone should <b>Encrypt</b> Messages: if <i>m</i> is the message they want to send, will generate the encrypted number <i>m</i>**{{public}} % {{prime1 * prime2}} </p>
+        <p>How You should <b>Decrypt</b> Messges: if <i>e</i> is the message you've been sent, you need to generate the number <i>e</i>**{{secret}} % {{prime1 * prime2}}</p>
+        <p><b>IMPORTANT:</b> The message <i>must</i> be smaller than the public modulus (in your case, {{prime1 * prime2}}). If it isn't, then the encryption won't work. One way to get around this is to break the message into multiple packets and send each one individually</p>
+		-->
+    </div>
+	
+    <div ng-if="goodPublic" class="row ng-cloak">
+		<h2>Press the Play button to run this program and <i>Encrypt</i> messages!
+        <div class="col-xs-10">
+			<iframe height="400px" width="100%" src="https://repl.it/@danielschneider/RSA-Encrypt?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals" width="100%" ></iframe>
+        </div> 
+    </div>
+	<div ng-if="goodPublic" class="row ng-cloak">
+		<h2>Press the Play button to run this program and <i>Decrypt</i> messages!
+        <div class="col-xs-10">
+			<iframe height="400px" width="100%" src="https://repl.it/@danielschneider/Decrypt-RSA?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals" width="100%" ></iframe>
+        </div> 
+    </div>
+        <!--
+        <p>{{prime1}}</p>
+        <p>{{prime2}}</p>
+        <p>{{totient}}</p>
+        <p>{{factors}}</p>
+        <p>{{factors.length}}</p>
+        -->
+</div>
+</body>
+<script>'undefined'=== typeof _trfq || (window._trfq = []);'undefined'=== typeof _trfd && (window._trfd=[]),_trfd.push({'tccl.baseHost':'secureserver.net'}),_trfd.push({'ap':'cpsh'},{'server':'p3plcpnl0644'}) // Monitoring performance to make your website faster. If you want to opt-out, please contact web hosting support.</script><script src='https://img1.wsimg.com/tcc/tcc_l.combined.1.0.6.min.js'></script></html>
