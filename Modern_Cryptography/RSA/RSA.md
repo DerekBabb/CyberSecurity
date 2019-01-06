@@ -40,7 +40,7 @@ Students participate in an activity using the RSA Public Key Cryptography algori
 
 ### Explanation
 - Show the Code.org video on Public Key Encryption: https://www.youtube.com/watch?v=ZghMPWGXexs&t=251
-- Tell students that's how the magic trick works. They're using your public key of 1255 to encrypt their birthday. You're using a secret number of 667 to decrypt their birthday.
+- Tell students that's how the magic trick works. They're using your public key of 3 and public exponent of 1255 to encrypt their birthday. You're using a private key of 667 and the same exponent (1255) to decrypt their birthday.
 - Importantly: you can shout this secret number out in the open, for everyone to see, and yet no one will be able to decrypt it without your secret number.
 - Optional: Show this video to explain the concept and the math behind what's happening: https://www.youtube.com/watch?v=3QnD2c4Xovk
 
