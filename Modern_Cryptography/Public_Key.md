@@ -1,9 +1,5 @@
 # Public Key Cryptography
 
-Note: https://curriculum.code.org/csp/unit4/7/ - this is it...
-Need to make a python program for this RSA
-Add a blog post about public key
-
 ## Overview
 Students will learn about and practice public key encryption. Focus on asymmetric algorithms where the process is not the same in both directions.
 
@@ -31,7 +27,7 @@ Students will learn about and practice public key encryption. Focus on asymmetri
 ## Teaching Guide
 ### Getting Started:
 Numberphile - Public Key Encryption
-https://www.youtube.com/watch?v=M7kEpw1tn50
+- [https://www.youtube.com/watch?v=M7kEpw1tn50](https://www.youtube.com/watch?v=M7kEpw1tn50)
 
 ### Activity
 - CS Unplugged Public Key Encryption Activity
