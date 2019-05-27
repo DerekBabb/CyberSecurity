@@ -41,7 +41,8 @@ Good websites for cyber news:
 #### Recommended High School CTFs
 - https://picoctf.com/
 - https://hsctf.com/
-- https://lasactf.com/
+- https://tjctf.org/
+- https://www.pactf.com
 - https://www.easyctf.com/
 - https://github.com/ctfs/write-ups-2016/tree/master/tjctf-2016
 
