@@ -1,7 +1,7 @@
 # RFID & Other Authentication
 
 TODO:
-	- This is entirely undone, see if needed.
+	- Add the clone thing from Amazon. 
 
 Overview
 
