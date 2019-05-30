@@ -16,9 +16,7 @@ Modern websites use databases to store and manage information.  We want to bette
 - For the Teacher
 
 - For the Students
-  - [Using Databases with HTML.docx](docs/Using_Databases_HTML.docx)
-  - [Viewing Databases with HTML.docx](docs/Viewing_SQL_HTML.docx)
-  - [Secure Viewing SQL with HTML.docx](docs/Secure_Viewing_SQL_HTML.docx)
+
 
 ### Vocabulary
 
@@ -29,10 +27,25 @@ Follow the guides on code academy for PHP and SQL.
 - Understanding the language will allow you to follow how the flaws are exploited.
 
 ### Activity
-Follow the [Using Databases with HTML.docx](/docs/Using_Databases_HTML.docx) document to create a way to add to your existing SQL database through a web form.
+Upload the ExampleForms.html and ExampleForms.php to your web server.
+- [ExampleForms.html](/html/ExampleForms.html)
+- [ExampleForms.php](/html/ExampleForms.php)
+
+Verify that the information has been added to the database by logging into the MySQL server and typing
+select * from names;
 
 ### Activity
-Follow the [Viewing Databases with HTML.docx](/docs/Viewing_SQL_HTML.docx) document to create web page that will allow you to see the contents of an SQL database on a web page.
+Using a MySQL database in command line is not a very convenient way to see the info in a database. Upload the pullData.html & pullData.php documents to the server.
+Verify that they can display the contents of the database to a web page.
+- [pullData.html](/html/pullData.html)
+- [pullData.php](/html/pullData.php)
+
+### Discussion
+- This is not a very secure way to display the contents of a database.
+- Is there a way to add authentication?
+
+### Activity
+ 
 
 ### Activity
 Follow the [Secure Viewing SQL with HTML.docx](/docs/Secure_Viewing_SQL_HTML.docx) document to create a secure, password protected method to see the contents of an SQL database.

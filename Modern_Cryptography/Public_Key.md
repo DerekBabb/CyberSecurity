@@ -56,6 +56,10 @@ This chapter focused on public key encryption.
 - What are the potential issues with encryption as computers increase in computing power?
 - Who are some of the hidden figures in this field? Why did they not initially get credit for their work?
 
+Raspberry Pi: Buid an OctaPi
+- [https://projects.raspberrypi.org/en/projects/build-an-octapi](https://projects.raspberrypi.org/en/projects/build-an-octapi)
+- [https://projects.raspberrypi.org/en/projects/octapi-public-key-cryptography](https://projects.raspberrypi.org/en/projects/octapi-public-key-cryptography)
+
 ### Standards Alignment
 
 ## License
