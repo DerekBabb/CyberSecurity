@@ -28,8 +28,8 @@ Follow the guides on code academy for PHP and SQL.
 
 ### Activity
 Upload the ExampleForms.html and ExampleForms.php to your web server.
-- [ExampleForms.html](/html/ExampleForms.html)
-- [ExampleForms.php](/html/ExampleForms.php)
+- [ExampleForms.html](html/ExampleForms.html)
+- [ExampleForms.php](html/ExampleForms.php)
 
 Verify that the information has been added to the database by logging into the MySQL server and typing
 select * from names;
@@ -37,18 +37,18 @@ select * from names;
 ### Activity
 Using a MySQL database in command line is not a very convenient way to see the info in a database. Upload the pullData.html & pullData.php documents to the server.
 Verify that they can display the contents of the database to a web page.
-- [pullData.html](/html/pullData.html)
-- [pullData.php](/html/pullData.php)
+- [pullData.html](html/pullData.html)
+- [pullData.php](html/pullData.php)
 
 ### Discussion
 - This is not a very secure way to display the contents of a database.
 - Is there a way to add authentication?
 
 ### Activity
- 
+
 
 ### Activity
-Follow the [Secure Viewing SQL with HTML.docx](/docs/Secure_Viewing_SQL_HTML.docx) document to create a secure, password protected method to see the contents of an SQL database.
+Follow the [Secure Viewing SQL with HTML.docx](docs/Secure_Viewing_SQL_HTML.docx) document to create a secure, password protected method to see the contents of an SQL database.
 - This is not totally Secure.
 - How can this form be broken into?
 - What allows this type of from to be injected using a simple SQL injection?
