@@ -65,10 +65,11 @@ Blown to Bits is a book that looks at many aspects of digital life, it's history
 The Code Book by Simon Singh looks at historical cryptography and tells the story behind the mathematics.  This book is a great way to engage students with the material through story and the literal life and death struggle of people using and inventing cryptographic methods.
 This book is an adaptation of his original Code Book designed for young adult readers.
 
-[Cloud 9](https://c9.io/)
-Cloud 9 is a development workspace that allows people to create full web sites or services.  We use the service to demonstrate web vulnerabilities and how to prevent them.  The service is free for students but it does require a credit card when signing up.
-I recommend creating a teacher account where you can have as many teams as you want.  This services does cost $1 a month.
+[PaizaCloud](https://paiza.cloud/)
+This service gives you access to a remote virtual machine that can be used as a web server. This is used in the web security section. The remote VM also has a command line terminal that can be used to learn Linux commands on a remote server.
 
+[Codio](https://codio.com)
+Codio is a subscription service but also offers remote virtual machines. This is a better fit for having students join a class and being able to distribute files to them to begin with.
 
 [Python.org](https://www.python.org/)
 If you want to do the programming activities and want to run the code locally on the computers.  I recommend the IDE from Python.org though there are many others available.  All of the coding activities have been written using Python 3.
