@@ -34,7 +34,7 @@ Use a development environment, to host a web site and begin engaging with some o
 - Upload (or copy & paste) the HTML that you built on your local machine.
 
 ### Activity:
-- Follow the [Using MySQL](/docs/Using_MySQL.docx)
+- Follow the [Using MySQL](docs/Using_MySQL.docx)
 - Create a SQL database.
 	- This will be used in later lessons.
 
