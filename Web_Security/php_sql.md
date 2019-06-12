@@ -76,6 +76,7 @@ Now, make this whole thing secure so we can't do this type of injection and need
 ### Assessment Questions
 
 ### Extended Learning
+- Buggy Web App [https://www.mmebvba.com/sites/bwapp/index.htm](https://www.mmebvba.com/sites/bwapp/index.htm)
 
 ### Standards Alignment
 
