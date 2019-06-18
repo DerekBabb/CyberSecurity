@@ -79,6 +79,8 @@ Now, make this whole thing secure so we can't do this type of injection and need
 - Buggy Web App [https://www.mmebvba.com/sites/bwapp/index.htm](https://www.mmebvba.com/sites/bwapp/index.htm)
 
 ### Standards Alignment
-
+Indiana - CS3S-1.2
+Indiana - CS3S-2.1
+Indiana - CS3S-4.1
 ## License
 [Cyber Security Curriculum](https://github.com/DerekBabb/CyberSecurity) <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
