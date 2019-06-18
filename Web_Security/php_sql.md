@@ -44,14 +44,29 @@ Verify that they can display the contents of the database to a web page.
 - This is not a very secure way to display the contents of a database.
 - Is there a way to add authentication?
 
-### Activity
-
 
 ### Activity
+Add the pullDataAdmin.html & pullDataAdmin.php documents to your project.
+- [pullDataAdmin.html](html/pullDataAdmin.html)
+- [pullDataAdmin.php](html/pullDataAdmin.php)
 Follow the [Secure Viewing SQL with HTML.docx](docs/Secure_Viewing_SQL_HTML.docx) document to create a secure, password protected method to see the contents of an SQL database.
+
 - This is not totally Secure.
 - How can this form be broken into?
 - What allows this type of from to be injected using a simple SQL injection?
+
+### Activity
+Add the contact.html, contact.php, and messages.php documents to your project.
+- [contact.html](html/contact.html)
+- [contact.php](html/contact.php)
+- [messages.php](html/messages.php)
+
+Add a table to your mySQL database called messages with columns name, subject, message.
+Test to make sure the contact.html/php will post to the database and that messages.php will read messages.
+Now type a message that has some HTML in it. What happens in the message viewing center?
+What happens if you type a message like <script>alert("Surprise!")</script>?
+
+Now, make this whole thing secure so we can't do this type of injection and need a secure log in to see our messages.
 
 ### Wrap-up
 - How could your secure site be made truly secure?
@@ -61,8 +76,11 @@ Follow the [Secure Viewing SQL with HTML.docx](docs/Secure_Viewing_SQL_HTML.docx
 ### Assessment Questions
 
 ### Extended Learning
+- Buggy Web App [https://www.mmebvba.com/sites/bwapp/index.htm](https://www.mmebvba.com/sites/bwapp/index.htm)
 
 ### Standards Alignment
-
+Indiana - CS3S-1.2
+Indiana - CS3S-2.1
+Indiana - CS3S-4.1
 ## License
 [Cyber Security Curriculum](https://github.com/DerekBabb/CyberSecurity) <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
