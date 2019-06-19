@@ -64,7 +64,7 @@ Add the contact.html, contact.php, and messages.php documents to your project.
 Add a table to your mySQL database called messages with columns name, subject, message.
 Test to make sure the contact.html/php will post to the database and that messages.php will read messages.
 Now type a message that has some HTML in it. What happens in the message viewing center?
-What happens if you type a message like <script>alert("Surprise!")</script>?
+What happens if you type a message like &lt script &gt alert("Surprise!") &lt /script &gt ?
 
 Now, make this whole thing secure so we can't do this type of injection and need a secure log in to see our messages.
 

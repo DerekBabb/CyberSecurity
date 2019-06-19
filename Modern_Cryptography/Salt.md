@@ -18,8 +18,8 @@ Students will use salt to obscure a password and see how password files are stor
 - For the Teacher
 	- https://en.wikipedia.org/wiki/Hash_function
 	- https://en.wikipedia.org/wiki/Salt_(cryptography)
-	- [HashDemo.py]("HashSalt/HashDemo.py")
-	- [HashPassword.py]("HashSalt/HashPassword.py")
+	- [HashDemo.py](HashSalt/HashDemo.py)
+	- [HashPassword.py](HashSalt/HashPassword.py)
 
 - For the Students
 	- https://www.pythoncentral.io/hashing-strings-with-python/
