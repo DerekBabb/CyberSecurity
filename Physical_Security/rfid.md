@@ -1,7 +1,7 @@
 # RFID & Other Authentication
 
 TODO:
-	- Add the clone thing from Amazon. 
+	- Add the clone thing from Amazon.
 
 Overview
 
@@ -22,8 +22,11 @@ Links
 Vocabulary
 
 Teaching Guide
-	- Map a major section to each of the agenda
-
+	- Hotel Locks Story
+		- [https://www.wired.com/2017/08/the-hotel-hacker/](https://www.wired.com/2017/08/the-hotel-hacker/)
+		- [https://www.bbc.com/news/technology-43896360](https://www.bbc.com/news/technology-43896360)
+		- [https://www.wired.com/story/one-minute-attack-let-hackers-spoof-hotel-master-keys/](https://www.wired.com/story/one-minute-attack-let-hackers-spoof-hotel-master-keys/)
+		- [https://blog.f-secure.com/podcast-popping-hotel-locks-hacking/](https://blog.f-secure.com/podcast-popping-hotel-locks-hacking/)
 Wrap-up
 
 Assessment Questions

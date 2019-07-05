@@ -80,5 +80,8 @@ Dr. Java is a lightweight Java IDE that is very forgiving of a computer that doe
 [Code.org](https://studio.code.org/home)
 Code.org has several courses designed to teach coding and a wider understanding of computer science.  Several lessons in their Computer Science Principles course are extremely applicable to cyber security and have been included here. The instructor will need to setup an account with Code.org and give all students a login for this portion to work.
 
+[US Cyber Patriot](https://www.uscyberpatriot.org/)
+​CyberPatriot the National Youth Cyber Education Program created by the Air Force Association to inspire K-12 students toward careers in cybersecurity or other science, technology, engineering, and mathematics (STEM) disciplines critical to our nation's future. ​At the core of the program is the National Youth Cyber Defense Competition, the nation's largest cyber defense competition that puts high school and middle school students in charge of securing virtual networks. Other programs include AFA CyberCamps, an elementary school cyber education initiative, a children’s literature series, and CyberGenerations –a cyber safety initiative geared toward keeping senior citizens safe online
+
 ## License
 [Cyber Security Curriculum](https://github.com/DerekBabb/CyberSecurity) <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.

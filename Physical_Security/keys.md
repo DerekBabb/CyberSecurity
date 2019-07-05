@@ -29,6 +29,7 @@ Understand locks as systems and understand how they work to understand how they 
 ### Activity:
 - Research how pin & tumbler locks work.
 - Research how bump key works
+- https://toool.us/education.html
 
 ### Activity:
 - Look at the pin guides provided by Devian Ollam
@@ -63,6 +64,8 @@ Video:
 	- https://www.youtube.com/watch?v=qg-zK2zv4ng
 - Source Conference - 2010
 	- https://www.youtube.com/watch?v=vxXryID5F7M
+- Another video of getting duplicating keys from a photo
+	- https://www.youtube.com/watch?v=SO0Y0HLvvpA
 ### Standards Alignment
 
 ## License

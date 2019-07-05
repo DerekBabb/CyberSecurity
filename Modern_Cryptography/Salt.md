@@ -68,7 +68,8 @@ Discussion:
 - How does salting make hashed passwords more secure?
 
 ### Extended Learning
-
+Look at rainbow tables: [http://project-rainbowcrack.com/table.htm](http://project-rainbowcrack.com/table.htm)
+Hashed Password Cracker: [https://crackstation.net/](https://crackstation.net/)
 ### Standards Alignment
 
 ## License

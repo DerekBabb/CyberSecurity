@@ -98,7 +98,10 @@ Major Hacking Events:
 - What should companies or governments do about hacking?
 
 ### Extended Learning
-
+- Listen to podcasts from Darknet Diaries
+	- [https://darknetdiaries.com/](https://darknetdiaries.com/)
+- Snapchat Thief (Reply All Podcast)
+	- [https://gimletmedia.com/shows/reply-all/v4he6k](https://gimletmedia.com/shows/reply-all/v4he6k)
 ### Standards Alignment
 
 ## License

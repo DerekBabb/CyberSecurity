@@ -62,6 +62,7 @@ As with our first blog post, you should write a post that includes writing, imag
 - What are some other take-aways from this chapter you found interesting?
 
 ### Standards Alignment
+Indiana - CS3S-1.2
 
 ### Sources:
 By Brandon T. Fields (cdated) - Based upon Vigenere-square.png by en:User:Matt Crypto. This version created by bdesham in Inkscape, and modified by cdated to include visual guides.This vector image was created with Inkscape., Public Domain, https://commons.wikimedia.org/w/index.php?curid=15037524

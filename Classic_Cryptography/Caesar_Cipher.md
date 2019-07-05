@@ -20,6 +20,7 @@ The Caesar Cipher is one of the best known forms of encryption.  This signifies 
 ### Links
 - For the Teacher
 	- https://en.wikipedia.org/wiki/Caesar_cipher
+	- http://practicalcryptography.com/ciphers/caesar-cipher/
 - For the Students
 	- http://www.cryptoclub.org/games/desert_oasis.php
 
@@ -64,7 +65,10 @@ Look at the CaesarCipher.py Python file.
 ### Extended Learning
 3D Printing: Print the Caesar Cipher ring to use instead of the paper wheel.
 - [https://www.thingiverse.com/thing:18315](https://www.thingiverse.com/thing:18315)
-
+3D Printing: Print a Cipher Disk
+- [https://www.thingiverse.com/thing:3404817](https://www.thingiverse.com/thing:3404817)
+3D Printing: Print a Braille Disk
+- [https://www.thingiverse.com/thing:3701018](https://www.thingiverse.com/thing:3701018)
 Programming: Bruteforce Caesar Decode
 - Using the decode method written in the programming activity, create a program that decodes using all 25 possible Caesar shifts.
 
