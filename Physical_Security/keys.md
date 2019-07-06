@@ -36,8 +36,15 @@ Understand locks as systems and understand how they work to understand how they 
 	- https://github.com/deviantollam/decoding
 - Using those overlays and a photo editor, try to work out the pin settings for a key with only a photo.
 	- Examples in this video: https://www.youtube.com/watch?v=AayXf5aRFTI starting at around 13:00.
-
-
+-Example key images
+	- [key1.jpg](Key_Images/key1.jpg)
+	- [key2.jpg](Key_Images/key2.jpg)
+	- [key3.jpg](Key_Images/key3.jpg)
+	- [key4.jpg](Key_Images/key4.jpg)
+	- [key5.jpg](Key_Images/key5.jpg)
+	- [key6.jpg](Key_Images/key6.jpg)
+	- [key7.jpg](Key_Images/key7.jpg)
+	
 ### Activity:
 - Read about TSA lock sets being leaked
 - Write a response (blog?) on the consequences of including a "back door" to a lock.

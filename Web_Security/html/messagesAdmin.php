@@ -55,5 +55,7 @@
        // Close connection
       mysqli_close($link);
     ?>
+    <hr>
+    <a href = "messagesAdmin.html">Back</a>
   </body>
 </html>
