@@ -29,6 +29,7 @@ Understand locks as systems and understand how they work to understand how they 
 ### Activity:
 - Research how pin & tumbler locks work.
 - Research how bump key works
+- https://toool.us/education.html
 
 ### Activity:
 - Look at the pin guides provided by Devian Ollam
@@ -36,6 +37,14 @@ Understand locks as systems and understand how they work to understand how they 
 - Using those overlays and a photo editor, try to work out the pin settings for a key with only a photo.
 	- Examples in this video: https://www.youtube.com/watch?v=AayXf5aRFTI starting at around 13:00.
 
+- Example key images
+	- [key1.jpg](Key_Images/key1.jpg)
+	- [key2.jpg](Key_Images/key2.jpg)
+	- [key3.jpg](Key_Images/key3.jpg)
+	- [key4.jpg](Key_Images/key4.jpg)
+	- [key5.jpg](Key_Images/key5.jpg)
+	- [key6.jpg](Key_Images/key6.jpg)
+	- [key7.jpg](Key_Images/key7.jpg)
 
 ### Activity:
 - Read about TSA lock sets being leaked
@@ -63,6 +72,8 @@ Video:
 	- https://www.youtube.com/watch?v=qg-zK2zv4ng
 - Source Conference - 2010
 	- https://www.youtube.com/watch?v=vxXryID5F7M
+- Another video of getting duplicating keys from a photo
+	- https://www.youtube.com/watch?v=SO0Y0HLvvpA
 ### Standards Alignment
 
 ## License

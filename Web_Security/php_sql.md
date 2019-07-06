@@ -14,7 +14,7 @@ Modern websites use databases to store and manage information.  We want to bette
 
 ### Links
 - For the Teacher
-
+  - [https://www.vice.com/en_us/article/aekzez/the-history-of-sql-injection-the-hack-that-will-never-go-away](https://www.vice.com/en_us/article/aekzez/the-history-of-sql-injection-the-hack-that-will-never-go-away)
 - For the Students
 
 
@@ -59,10 +59,12 @@ Follow the [Secure Viewing SQL with HTML.docx](docs/Secure_Viewing_SQL_HTML.docx
 Add the contact.html, contact.php, and messages.php documents to your project.
 - [contact.html](html/contact.html)
 - [contact.php](html/contact.php)
-- [messages.php](html/messages.php)
+- [messagesAdmin.html](html/messagesAdmin.html)
+- [messagesAdmin.php](html/messagesAdmin.php)
 
 Add a table to your mySQL database called messages with columns name, subject, message.
 Test to make sure the contact.html/php will post to the database and that messages.php will read messages.
+
 Now type a message that has some HTML in it. What happens in the message viewing center?
 What happens if you type a message like &lt; script &gt; alert("Surprise!") &lt; /script &gt;?
 
@@ -75,9 +77,10 @@ Now, make this whole thing secure so we can't do this type of injection and need
 
 ### Assessment Questions
 
-### Extended Learning
+### Extended Learninghttps://derekbabb.github.io/CyberSecurity/
 - Buggy Web App [https://www.mmebvba.com/sites/bwapp/index.htm](https://www.mmebvba.com/sites/bwapp/index.htm)
-
+- Hacksplaining Lessons [https://www.hacksplaining.com/lessons](https://www.hacksplaining.com/lessons)
+- Bobby Tables [https://bobby-tables.com/](https://bobby-tables.com/)
 ### Standards Alignment
 Indiana - CS3S-1.2
 Indiana - CS3S-2.1

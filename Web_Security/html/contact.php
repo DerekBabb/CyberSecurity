@@ -23,3 +23,5 @@
    // Close connection
    mysqli_close($link);
  ?>
+ <hr>
+ <a href = "contact.html">Back</a>

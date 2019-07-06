@@ -21,6 +21,7 @@ The German Enigma is one of the first examples of mechanization of cryptography.
 	- [Enigma Pringles Can Description](http://makezine.com/2012/06/06/how-to-papercraft-enigma-machine/)
 	- [Enigma Pringles Can PDF](Enigma/pringlesenigma3a4.pdf)
 	- [Enigma Worksheet](Enigma/Enigma_Activity.docx)
+	- [Video on how to use Pringles Can Enigma](https://www.youtube.com/watch?v=pZsuxZXN33g)
 - For the Students
 	- [Enigma Rotor Details](https://en.wikipedia.org/wiki/Enigma_rotor_details)
 ### Vocabulary
@@ -39,7 +40,6 @@ German Enigma - Numberphile (video):
 			- Depending on these uses, the messages may not work out perfectly.
 			- Protocols need to be the same between messages to be able to successfully encode/decode.
 - Decode and encode the messages in the worksheet.
-
 ### Activity:
 Create a Python version of the Enigma cipher.
 - Use the existing files and create the missing rotors (4 & 5) as well as another reflector (b).
@@ -80,6 +80,9 @@ There are a few things I think you should look at in your blog:
 - How did they break Enigma?
 - What were the implications of breaking Enigma while trying to keep that secret from the Germans?
 Please use photos and examples in your blog. This should be posted to your Wordpress blog.
+
+#### 3D Print an Enigma Cylinder
+- [https://www.thingiverse.com/thing:3555396/files](https://www.thingiverse.com/thing:3555396/files)
 
 #### Watch Movie: Imitation Game
 

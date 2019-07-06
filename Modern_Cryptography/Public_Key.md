@@ -19,16 +19,18 @@ Students will learn about and practice public key encryption. Focus on asymmetri
 - For the Teacher
 	- http://csunplugged.org/wp-content/uploads/2014/12/unplugged-18-public_key_encryption_0.pdf
 	- https://studio.code.org/
+	- http://tuftsjournal.tufts.edu/2010/01_1/professor/01/
 
 - For the Students
-
+	- https://websitebuilders.com/how-to/stay-safe/secure-transactions/
 ### Vocabulary
 
 ## Teaching Guide
 ### Getting Started:
 Numberphile - Public Key Encryption
 - [https://www.youtube.com/watch?v=M7kEpw1tn50](https://www.youtube.com/watch?v=M7kEpw1tn50)
-
+Graphic of Apple's SMS privacy
+- [https://techcrunch.com/2014/02/27/apple-explains-exactly-how-secure-imessage-really-is/](https://techcrunch.com/2014/02/27/apple-explains-exactly-how-secure-imessage-really-is/)
 ### Activity
 - CS Unplugged Public Key Encryption Activity
 
@@ -37,7 +39,8 @@ Numberphile - Public Key Encryption
 - Students will need a code.org account and to be registered in a CSP course you've setup.
 
 ### Wrap-up
-
+- Khan Academy video on public key encryption
+	- [https://www.youtube.com/watch?v=YEBfamv-_do](https://www.youtube.com/watch?v=YEBfamv-_do)
 ### Assessment Questions
 - Describe to a person who knows nothing about encryption why public key encryption is secure and is hard to crack.
 - Explain in your own words what the modulo operation does. You may use the analogy of a clock in your answer if you like.

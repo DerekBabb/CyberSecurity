@@ -69,6 +69,7 @@ Send e-mail using Python.
 - What is spear-phishing?
 
 ### Extended Learning
+Visit site (Have I Been Pwned?)[https://haveibeenpwned.com/] to see if your account has been compromised.
 
 ### Standards Alignment
 
