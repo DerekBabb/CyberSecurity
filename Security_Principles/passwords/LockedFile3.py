@@ -4,7 +4,7 @@ def openMessage(password = None):
     if (password == None):
         password = input("Enter password: ")
 
-    if (scramble(password) == "£g\x98y"):
+    if (scramble(password) == "cqCJ"):
         secret = ""
         for num in msg:
             secret = secret + chr(num)
