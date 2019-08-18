@@ -3,10 +3,10 @@
 #get the correct one.
 
 #SETUP
-fileName = "LockedFile1"
-letters = "abcdefghijklmnopqrstuvwxyz"
+fileName = "LockedFile3"
+letters = "abcdefghijklmnopqrstuvwxyzQWERTYUIOPASDFGHJKLZXCVBNM!@#$%^&*()"
 passLength = 4 #How many characters is the password?
-viewAll = True #True or False, select False for maximum speed.
+viewAll = False #True or False, select False for maximum speed.
 
 #There are three files we want to break.
 #LockedFile1 - we know the password is only 4 characters and only lowercase letters
