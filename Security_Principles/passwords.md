@@ -23,6 +23,8 @@ Best practices in password selection include selecting a different password for 
 - For the Students
 	- How Secure is my Password
 	- [https://howsecureismypassword.net/](https://howsecureismypassword.net/)
+	- [https://password.kaspersky.com/](https://password.kaspersky.com/)
+	- [http://www.passwordmeter.com/](http://www.passwordmeter.com/)
 
 ### Vocabulary
 
