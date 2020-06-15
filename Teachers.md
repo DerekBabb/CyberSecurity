@@ -5,3 +5,4 @@ I'm so excited you're using my curriculum to teach cybersecurity!  Please introd
 |First Name|Last Name|District/School|email|
 |----|----|----|----|
 |Jenna|Garcia|Nextech|jenna@nextech.org|
+|Tim|Clegg|Blue River Valley|timothy.clegg@brv.k12.in.us|
