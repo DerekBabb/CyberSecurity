@@ -7,3 +7,4 @@ I'm so excited you're using my curriculum to teach cybersecurity!  Please introd
 |Jenna|Garcia|Nextech|jenna@nextech.org|
 |Jo|Cox|Yorktown Community Schools|jcox@yorktown.k12.in.us|
 |Nick|Zivanovic|Griffith High School|nickz1@gmail.com|
+|Alex|McKinstry|FWCS Career Academy|alexander.mckinstry@fwcs.k12.in.us|
