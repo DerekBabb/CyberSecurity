@@ -35,11 +35,13 @@ Good websites for cyber news:
 - https://www.theverge.com/
 - https://www.engadget.com/
 - https://arstechnica.com/
+- https://cyware.com/
 
 <b>Capture the Flag (CTF)</b> - Throughout the year, you will be able to find online cyber security scavenger hunts called capture the flags or CTFs for short. There are a number of these geared toward high school students and this is frequently a good way to see what the students are learning in a fun, engaging, game-like way.
 
 #### Recommended High School CTFs
 - https://picoctf.com/
+- https://www.ctf.live/
 - https://hsctf.com/
 - https://tjctf.org/
 - https://www.pactf.com
