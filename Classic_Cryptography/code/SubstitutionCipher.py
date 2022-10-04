@@ -27,6 +27,7 @@ def decode(message, key):
     message = message.upper()
     plaintext = ""
 
+
     return plaintext
 
 #--------------------------------------------------------------------
@@ -72,5 +73,5 @@ def main():
 
     secret = encode(message, key)
     print ("Encrypted:", secret)
-    #plaintext = decode(secret, key)
-    #print ("Decrypted:", plaintext)
+    plaintext = decode(secret, key)
+    print ("Decrypted:", plaintext)
